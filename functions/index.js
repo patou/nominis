@@ -101,7 +101,7 @@ function processV2Request (request, response) {
       sendResponse(`${formatDate(momentDate)} nous fêtons ${startBy(data.date[md])}`);
     }
     else {
-      sendResponse("Pas de saint à fêter pour ce jour là : " + momentDate.format('D MMMM'));
+      sendResponse("Pas de saint à fêter pour le " + momentDate.format('D MMMM'));
     }
   }
 
