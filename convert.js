@@ -111,7 +111,7 @@ function grabDataFromAEvent(elem, index, array) {
     var saint = summary.substring(0, summary.lastIndexOf("-")-1);
     var description = elem['DESCRIPTION'];
     var url = description.substring(description.lastIndexOf("\\n")+2);
-    sleep(100);
+    sleep(50);
     return load(url).then(names => {
       console.log(`Load ${date} with ${names.length} names`);
       var dateObj = {date, saint, url, names : []}

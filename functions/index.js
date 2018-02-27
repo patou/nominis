@@ -4,7 +4,8 @@ const functions = require('firebase-functions'); // Cloud Functions for Firebase
 const DialogflowApp = require('actions-on-google').DialogflowApp; // Google Assistant helper library
 const moment = require('moment');
 moment.locale("fr");
-const data = require('./data.json');
+
+const {formatDate, startBy, fete, getName, getDate, nameExist, dateExist} = require('./functions');
 
 exports.dialogflowFirebaseFulfillment = functions.https.onRequest((request, response) => {
   console.log('Dialogflow Request headers: ' + JSON.stringify(request.headers));
@@ -16,31 +17,6 @@ exports.dialogflowFirebaseFulfillment = functions.https.onRequest((request, resp
     return response.status(400).end('Invalid Webhook Request (expecting v1 or v2 webhook request)');
   }
 });
-
-function formatDate(date) {
-  switch (date.diff(new Date(), 'day')) {
-    case 0:
-      return "aujourd'hui"
-    case 1:
-      return "demain"
-    case -1:
-      return "hier"
-    default:
-      return date.format('[le] D MMMM')
-  }
-}
-
-function startBy(str) {
-  return (str.startsWith("Saint")) ? `la ${str}` : str;
-}
-
-function fete(md, name) {
-  var datefest = data.date[md];
-  if (datefest && datefest.toLowerCase().indexOf(name) < 0) {
-    return `nous fêtons ${startBy(data.date[md])}`;
-  }
-  return '';
-}
 
 /*
 * Function to handle v2 webhook requests from Dialogflow
@@ -68,10 +44,10 @@ function processV2Request (request, response) {
       sendResponse('I\'m having trouble, can you try that again?'); // Send simple response to user
     },
     'DATE': () => {
-      getDate(parameters.date);
+      actionDate(parameters.date);
     },
     'NAME': () => {
-      getName(parameters.name);
+      actionName(parameters.name);
     },
     // Default handler for unknown or undefined actions
     'default': () => {
@@ -91,14 +67,15 @@ function processV2Request (request, response) {
   actionHandlers[action]();
 
   // Cherche la fête de la date
-  function getDate(date) {
+  function actionDate(date) {
     if (!date) {
       date = new Date();
     }
     var momentDate = moment(date);
     var md = momentDate.format('MMDD');
-    if (data.date[md]) {
-      sendResponse(`${formatDate(momentDate)} nous fêtons ${startBy(data.date[md])}`);
+    if (dateExist(md)) {
+      var data = getDate(md);
+      sendResponse(`${formatDate(momentDate)} nous fêtons ${startBy(data.saint)}`);
     }
     else {
       sendResponse("Pas de saint à fêter pour le " + momentDate.format('D MMMM'));
@@ -106,15 +83,14 @@ function processV2Request (request, response) {
   }
 
   //Cherche le nom et indique le jour de la fête.
-  function getName(name) {
+  function actionName(name) {
     if (!name) {
       sendResponse("Dites moi pour quel prénom vous voulez la fêtes.");
     }
-    name = name.toLowerCase();
-    if (data.name[name]) {
-      var md = data.name[name];
-      var momentDate = moment(data.name[name], "MMDD");
-      sendResponse(`les ${name} sont fêtés ${formatDate(momentDate)} ${fete(md, name)}`);
+    if (nameExist(name)) {
+      var data = getName(name);
+      var momentDate = moment(getDate(data.date), "MMDD");
+      sendResponse(`Les ${data.name} sont fêtés ${formatDate(momentDate)} ${fete(data.date, name.id)}`);
     }
     else {
       sendResponse(`Le prénom ${name} n'a pas de fête associée.`);

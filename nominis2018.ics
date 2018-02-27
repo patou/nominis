@@ -1,0 +1,3194 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+X-WR-CALNAME:Calendrier Nominis
+X-WR-CALDESC:Nominis, https://nominis.cef.fr
+X-WR-TIMEZONE:Europe/Paris
+PRODID:-//www.cef.fr//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180101-349@nominis.cef.fr
+DTSTART;VALUE=DATE:20180101
+SUMMARY:Sainte Marie, mère de Dieu - (1er s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/349/Sainte-Marie--mere-de-Dieu.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/1/1/2018/1-Janvier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180102-353@nominis.cef.fr
+DTSTART;VALUE=DATE:20180102
+SUMMARY:Saint Basile le Grand - (+ 379)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/353/Saint-Basile-le-Grand.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/2/1/2018/2-Janvier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180102-356@nominis.cef.fr
+DTSTART;VALUE=DATE:20180102
+SUMMARY:Saint Grégoire de Nazianze - (+ 390)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/356/Saint-Gregoire-de-Nazianze.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/2/1/2018/2-Janvier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180103-355@nominis.cef.fr
+DTSTART;VALUE=DATE:20180103
+SUMMARY:Sainte Geneviève - (+ 500)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/355/Sainte-Genevieve.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/3/1/2018/3-Janvier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180104-365@nominis.cef.fr
+DTSTART;VALUE=DATE:20180104
+SUMMARY:Sainte Angèle de Foligno - (+ 1310)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/365/Sainte-Angele-de-Foligno.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/4/1/2018/4-Janvier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180105-372@nominis.cef.fr
+DTSTART;VALUE=DATE:20180105
+SUMMARY:Saint Edouard le Confesseur - (+ 1066)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/372/Saint-Edouard-le-Confesseur.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/5/1/2018/5-Janvier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180106-9987@nominis.cef.fr
+DTSTART;VALUE=DATE:20180106
+SUMMARY:Épiphanie du Seigneur - 
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/9987/%C9piphanie-du-Seigneur.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/6/1/2018/6-Janvier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180107-388@nominis.cef.fr
+DTSTART;VALUE=DATE:20180107
+SUMMARY:Saint Raymond de Peñafort - (+ 1275)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/388/Saint-Raymond-de-Pe%F1afort.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/7/1/2018/7-Janvier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180108-392@nominis.cef.fr
+DTSTART;VALUE=DATE:20180108
+SUMMARY:Saint Lucien de Beauvais - (+ 290)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/392/Saint-Lucien-de-Beauvais.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/8/1/2018/8-Janvier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180109-395@nominis.cef.fr
+DTSTART;VALUE=DATE:20180109
+SUMMARY:Bienheureuse Alix Le Clerc - (+ 1622)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/395/Bienheureuse-Alix-Le-Clerc.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/9/1/2018/9-Janvier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180110-404@nominis.cef.fr
+DTSTART;VALUE=DATE:20180110
+SUMMARY:Saint Guillaume de Bourges - (+ 1209)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/404/Saint-Guillaume-de-Bourges.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/10/1/2018/10-Janvier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180111-410@nominis.cef.fr
+DTSTART;VALUE=DATE:20180111
+SUMMARY:Saint Paulin d'Aquilée - (+ 804)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/410/Saint-Paulin-d-Aquilee.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/11/1/2018/11-Janvier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180112-417@nominis.cef.fr
+DTSTART;VALUE=DATE:20180112
+SUMMARY:Sainte Marguerite Bourgeoys - (+ 1700)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/417/Sainte-Marguerite-Bourgeoys.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/12/1/2018/12-Janvier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180112-418@nominis.cef.fr
+DTSTART;VALUE=DATE:20180112
+SUMMARY:Sainte Tatiana de Rome - (+ 226)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/418/Sainte-Tatiana-de-Rome.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/12/1/2018/12-Janvier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180113-421@nominis.cef.fr
+DTSTART;VALUE=DATE:20180113
+SUMMARY:Saint Hilaire de Poitiers - (+ 367)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/421/Saint-Hilaire-de-Poitiers.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/13/1/2018/13-Janvier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180113-422@nominis.cef.fr
+DTSTART;VALUE=DATE:20180113
+SUMMARY:Sainte Yvette - (+ 1228)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/422/Sainte-Yvette.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/13/1/2018/13-Janvier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180114-260@nominis.cef.fr
+DTSTART;VALUE=DATE:20180114
+SUMMARY:Sainte Nino - (4ème s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/260/Sainte-Nino.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/14/1/2018/14-Janvier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180115-439@nominis.cef.fr
+DTSTART;VALUE=DATE:20180115
+SUMMARY:Saint Remi - (+ 530)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/439/Saint-Remi.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/15/1/2018/15-Janvier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180116-444@nominis.cef.fr
+DTSTART;VALUE=DATE:20180116
+SUMMARY:Saint Honorat - (+ 430)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/444/Saint-Honorat.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/16/1/2018/16-Janvier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180116-445@nominis.cef.fr
+DTSTART;VALUE=DATE:20180116
+SUMMARY:Saint Marcel Ier - (+ 309)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/445/Saint-Marcel-Ier.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/16/1/2018/16-Janvier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180117-446@nominis.cef.fr
+DTSTART;VALUE=DATE:20180117
+SUMMARY:Saint Antoine le Grand - (+ 356)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/446/Saint-Antoine-le-Grand.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/17/1/2018/17-Janvier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180118-455@nominis.cef.fr
+DTSTART;VALUE=DATE:20180118
+SUMMARY:Sainte Marguerite de Hongrie - (+ 1270)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/455/Sainte-Marguerite-de-Hongrie.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/18/1/2018/18-Janvier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180119-5241@nominis.cef.fr
+DTSTART;VALUE=DATE:20180119
+SUMMARY:Saint Germanicus - (+ 168)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/5241/Saint-Germanicus.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/19/1/2018/19-Janvier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180120-469@nominis.cef.fr
+DTSTART;VALUE=DATE:20180120
+SUMMARY:Saint Fabien - (+ 250)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/469/Saint-Fabien.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/20/1/2018/20-Janvier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180120-470@nominis.cef.fr
+DTSTART;VALUE=DATE:20180120
+SUMMARY:Saint Sébastien - (+ v. 284)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/470/Saint-Sebastien.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/20/1/2018/20-Janvier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180121-471@nominis.cef.fr
+DTSTART;VALUE=DATE:20180121
+SUMMARY:Sainte Agnès de Rome - (+ v. 304)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/471/Sainte-Agnes-de-Rome.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/21/1/2018/21-Janvier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180122-483@nominis.cef.fr
+DTSTART;VALUE=DATE:20180122
+SUMMARY:Saint Vincent - (+ 304)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/483/Saint-Vincent.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/22/1/2018/22-Janvier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180123-489@nominis.cef.fr
+DTSTART;VALUE=DATE:20180123
+SUMMARY:Saint Ildefonse de Tolède - (+ 669)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/489/Saint-Ildefonse-de-Tolede.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/23/1/2018/23-Janvier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180124-494@nominis.cef.fr
+DTSTART;VALUE=DATE:20180124
+SUMMARY:Saint François de Sales - (+ 1622)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/494/Saint-Francois-de-Sales.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/24/1/2018/24-Janvier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180125-500@nominis.cef.fr
+DTSTART;VALUE=DATE:20180125
+SUMMARY:Conversion de Saint Paul - 
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/500/Conversion-de-Saint-Paul.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/25/1/2018/25-Janvier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180126-511@nominis.cef.fr
+DTSTART;VALUE=DATE:20180126
+SUMMARY:Saints Tite et Timothée - (1er s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/511/Saints-Tite-et-Timothee.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/26/1/2018/26-Janvier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180127-513@nominis.cef.fr
+DTSTART;VALUE=DATE:20180127
+SUMMARY:Sainte Angèle Merici - (+ 1540)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/513/Sainte-Angele-Merici.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/27/1/2018/27-Janvier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180127-514@nominis.cef.fr
+DTSTART;VALUE=DATE:20180127
+SUMMARY:Sainte Dévote - (+ 304)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/514/Sainte-Devote.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/27/1/2018/27-Janvier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180128-1298@nominis.cef.fr
+DTSTART;VALUE=DATE:20180128
+SUMMARY:Saint Ephrem le Syrien - (+ 373)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1298/Saint-Ephrem-le-Syrien.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/28/1/2018/28-Janvier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180128-524@nominis.cef.fr
+DTSTART;VALUE=DATE:20180128
+SUMMARY:Saint Thomas d'Aquin - (+ 1274)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/524/Saint-Thomas-d-Aquin.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/28/1/2018/28-Janvier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180129-526@nominis.cef.fr
+DTSTART;VALUE=DATE:20180129
+SUMMARY:Saint Gildas - (+ 570)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/526/Saint-Gildas.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/29/1/2018/29-Janvier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180130-531@nominis.cef.fr
+DTSTART;VALUE=DATE:20180130
+SUMMARY:Sainte Martine - (+ 226)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/531/Sainte-Martine.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/30/1/2018/30-Janvier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180131-534@nominis.cef.fr
+DTSTART;VALUE=DATE:20180131
+SUMMARY:Saint Jean Bosco - (+ 1888)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/534/Saint-Jean-Bosco.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/31/1/2018/31-Janvier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180131-535@nominis.cef.fr
+DTSTART;VALUE=DATE:20180131
+SUMMARY:Sainte Marcella - (+ 410)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/535/Sainte-Marcella.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/31/1/2018/31-Janvier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180201-538@nominis.cef.fr
+DTSTART;VALUE=DATE:20180201
+SUMMARY:Sainte Brigitte de Kildare - (+ 523)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/538/Sainte-Brigitte-de-Kildare.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/1/2/2018/1-Fevrier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180201-768@nominis.cef.fr
+DTSTART;VALUE=DATE:20180201
+SUMMARY:Saintes Perpétue et Félicité - (+ 203)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/768/Saintes-Perpetue-et-Felicite.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/1/2/2018/1-Fevrier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180202-549@nominis.cef.fr
+DTSTART;VALUE=DATE:20180202
+SUMMARY:Présentation de Jésus au Temple - 
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/549/Presentation-de-Jesus-au-Temple.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/2/2/2018/2-Fevrier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180203-553@nominis.cef.fr
+DTSTART;VALUE=DATE:20180203
+SUMMARY:Saint Blaise de Sébaste - (+ 316)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/553/Saint-Blaise-de-Sebaste.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/3/2/2018/3-Fevrier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180204-570@nominis.cef.fr
+DTSTART;VALUE=DATE:20180204
+SUMMARY:Sainte Véronique - (1er s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/570/Sainte-Veronique.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/4/2/2018/4-Fevrier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180205-571@nominis.cef.fr
+DTSTART;VALUE=DATE:20180205
+SUMMARY:Sainte Agathe de Catane - (+ 251)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/571/Sainte-Agathe-de-Catane.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/5/2/2018/5-Fevrier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180206-2123@nominis.cef.fr
+DTSTART;VALUE=DATE:20180206
+SUMMARY:Saint Gaston - (+ 540)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/2123/Saint-Gaston.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/6/2/2018/6-Fevrier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180206-580@nominis.cef.fr
+DTSTART;VALUE=DATE:20180206
+SUMMARY:Saint Paul Miki - (+ 1597)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/580/Saint-Paul-Miki.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/6/2/2018/6-Fevrier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180207-583@nominis.cef.fr
+DTSTART;VALUE=DATE:20180207
+SUMMARY:Bienheureuse Eugénie Smet - (+ 1871)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/583/Bienheureuse-Eugenie-Smet.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/7/2/2018/7-Fevrier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180208-9941@nominis.cef.fr
+DTSTART;VALUE=DATE:20180208
+SUMMARY:Sainte Joséphine Bakhita - (+ 1947)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/9941/Sainte-Josephine-Bakhita.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/8/2/2018/8-Fevrier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180209-599@nominis.cef.fr
+DTSTART;VALUE=DATE:20180209
+SUMMARY:Sainte Apolline - (+ 249)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/599/Sainte-Apolline.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/9/2/2018/9-Fevrier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180210-609@nominis.cef.fr
+DTSTART;VALUE=DATE:20180210
+SUMMARY:Sainte Scholastique - (+ 543)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/609/Sainte-Scholastique.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/10/2/2018/10-Fevrier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180211-9915@nominis.cef.fr
+DTSTART;VALUE=DATE:20180211
+SUMMARY:Bienheureuse Héloïse - (+ v. 1066)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/9915/Bienheureuse-Heloise.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/11/2/2018/11-Fevrier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180211-615@nominis.cef.fr
+DTSTART;VALUE=DATE:20180211
+SUMMARY:Notre-Dame de Lourdes - 
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/615/Notre-Dame-de-Lourdes.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/11/2/2018/11-Fevrier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180212-9866@nominis.cef.fr
+DTSTART;VALUE=DATE:20180212
+SUMMARY:Bienheureuse Ombeline - (+ v. 1141)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/9866/Bienheureuse-Ombeline.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/12/2/2018/12-Fevrier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180213-5729@nominis.cef.fr
+DTSTART;VALUE=DATE:20180213
+SUMMARY:Saint Gilbert - (+ v. 1009)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/5729/Saint-Gilbert.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/13/2/2018/13-Fevrier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180214-638@nominis.cef.fr
+DTSTART;VALUE=DATE:20180214
+SUMMARY:Saints Cyrille et Méthode - (9ème s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/638/Saints-Cyrille-et-Methode.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/14/2/2018/14-Fevrier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180214-641@nominis.cef.fr
+DTSTART;VALUE=DATE:20180214
+SUMMARY:Saint Valentin - (+ v. 269)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/641/Saint-Valentin.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/14/2/2018/14-Fevrier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180215-642@nominis.cef.fr
+DTSTART;VALUE=DATE:20180215
+SUMMARY:Saint Claude La Colombière - (+ 1682)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/642/Saint-Claude-La-Colombiere.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/15/2/2018/15-Fevrier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180216-652@nominis.cef.fr
+DTSTART;VALUE=DATE:20180216
+SUMMARY:Sainte Julienne de Nicomédie - (4ème s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/652/Sainte-Julienne-de-Nicomedie.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/16/2/2018/16-Fevrier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180217-656@nominis.cef.fr
+DTSTART;VALUE=DATE:20180217
+SUMMARY:Saint Alexis Falconieri - (+ 1310)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/656/Saint-Alexis-Falconieri.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/17/2/2018/17-Fevrier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180218-662@nominis.cef.fr
+DTSTART;VALUE=DATE:20180218
+SUMMARY:Sainte Bernadette Soubirous - (+ 1879)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/662/Sainte-Bernadette-Soubirous.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/18/2/2018/18-Fevrier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180219-669@nominis.cef.fr
+DTSTART;VALUE=DATE:20180219
+SUMMARY:Saint Gabin de Rome - (+ 286)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/669/Saint-Gabin-de-Rome.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/19/2/2018/19-Fevrier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180220-672@nominis.cef.fr
+DTSTART;VALUE=DATE:20180220
+SUMMARY:Sainte Aimée - (+ 1252)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/672/Sainte-Aimee.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/20/2/2018/20-Fevrier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180221-681@nominis.cef.fr
+DTSTART;VALUE=DATE:20180221
+SUMMARY:Saint Pierre Damien - (+ 1072)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/681/Saint-Pierre-Damien.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/21/2/2018/21-Fevrier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180222-684@nominis.cef.fr
+DTSTART;VALUE=DATE:20180222
+SUMMARY:Bienheureuse Isabelle de France - (+ 1270)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/684/Bienheureuse-Isabelle-de-France.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/22/2/2018/22-Fevrier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180223-5843@nominis.cef.fr
+DTSTART;VALUE=DATE:20180223
+SUMMARY:Saint Alexandre l'Acémète - (4ème s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/5843/Saint-Alexandre-l-Acemete.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/23/2/2018/23-Fevrier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180224-695@nominis.cef.fr
+DTSTART;VALUE=DATE:20180224
+SUMMARY:Saint Modeste - (+ v. 480)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/695/Saint-Modeste.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/24/2/2018/24-Fevrier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180225-706@nominis.cef.fr
+DTSTART;VALUE=DATE:20180225
+SUMMARY:Saint Nestor de Pamphylie - (+ 251)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/706/Saint-Nestor-de-Pamphylie.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/25/2/2018/25-Fevrier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180226-5846@nominis.cef.fr
+DTSTART;VALUE=DATE:20180226
+SUMMARY:Saint Alexandre - (+ 326)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/5846/Saint-Alexandre.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/26/2/2018/26-Fevrier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180227-711@nominis.cef.fr
+DTSTART;VALUE=DATE:20180227
+SUMMARY:Sainte Honorine - (4ème s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/711/Sainte-Honorine.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/27/2/2018/27-Fevrier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180228-5894@nominis.cef.fr
+DTSTART;VALUE=DATE:20180228
+SUMMARY:Saint Auguste Chapdelaine - (+ 1856)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/5894/Saint-Auguste-Chapdelaine.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/28/2/2018/28-Fevrier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180228-721@nominis.cef.fr
+DTSTART;VALUE=DATE:20180228
+SUMMARY:Saint Romain - (+ 460)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/721/Saint-Romain.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/28/2/2018/28-Fevrier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180229-5894@nominis.cef.fr
+DTSTART;VALUE=DATE:20180229
+SUMMARY:Saint Auguste Chapdelaine - (+ 1856)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/5894/Saint-Auguste-Chapdelaine.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/29/2/2018/29-Fevrier-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180301-724@nominis.cef.fr
+DTSTART;VALUE=DATE:20180301
+SUMMARY:Saint Aubin d'Angers - (+ 550)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/724/Saint-Aubin-d-Angers.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/1/3/2018/1-Mars-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180302-732@nominis.cef.fr
+DTSTART;VALUE=DATE:20180302
+SUMMARY:Bienheureux Charles le Bon - (+ 1127)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/732/Bienheureux-Charles-le-Bon.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/2/3/2018/2-Mars-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180303-88@nominis.cef.fr
+DTSTART;VALUE=DATE:20180303
+SUMMARY:Saint Guénolé - (+ 504)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/88/Saint-Guenole.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/3/3/2018/3-Mars-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180304-742@nominis.cef.fr
+DTSTART;VALUE=DATE:20180304
+SUMMARY:Saint Casimir - (+ 1484)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/742/Saint-Casimir.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/4/3/2018/4-Mars-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180305-753@nominis.cef.fr
+DTSTART;VALUE=DATE:20180305
+SUMMARY:Sainte Olive - (2ème s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/753/Sainte-Olive.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/5/3/2018/5-Mars-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180305-6053@nominis.cef.fr
+DTSTART;VALUE=DATE:20180305
+SUMMARY:Saint Virgile - (+ v. 610)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/6053/Saint-Virgile.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/5/3/2018/5-Mars-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180306-759@nominis.cef.fr
+DTSTART;VALUE=DATE:20180306
+SUMMARY:Sainte Colette de Corbie - (+ 1447)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/759/Sainte-Colette-de-Corbie.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/6/3/2018/6-Mars-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180307-768@nominis.cef.fr
+DTSTART;VALUE=DATE:20180307
+SUMMARY:Saintes Perpétue et Félicité - (+ 203)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/768/Saintes-Perpetue-et-Felicite.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/7/3/2018/7-Mars-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180308-772@nominis.cef.fr
+DTSTART;VALUE=DATE:20180308
+SUMMARY:Saint Jean de Dieu - (+ 1550)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/772/Saint-Jean-de-Dieu.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/8/3/2018/8-Mars-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180309-777@nominis.cef.fr
+DTSTART;VALUE=DATE:20180309
+SUMMARY:Sainte Françoise Romaine - (+ 1440)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/777/Sainte-Francoise-Romaine.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/9/3/2018/9-Mars-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180310-2126@nominis.cef.fr
+DTSTART;VALUE=DATE:20180310
+SUMMARY:Saint Vivien - (+ 320)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/2126/Saint-Vivien.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/10/3/2018/10-Mars-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180311-786@nominis.cef.fr
+DTSTART;VALUE=DATE:20180311
+SUMMARY:Sainte Rosine - 
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/786/Sainte-Rosine.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/11/3/2018/11-Mars-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180312-2127@nominis.cef.fr
+DTSTART;VALUE=DATE:20180312
+SUMMARY:Sainte Justine - (+ 1319)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/2127/Sainte-Justine.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/12/3/2018/12-Mars-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180313-805@nominis.cef.fr
+DTSTART;VALUE=DATE:20180313
+SUMMARY:Saints Rodrigue et Salomon de Cordoue - (+ 857)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/805/Saints-Rodrigue-et-Salomon-de-Cordoue.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/13/3/2018/13-Mars-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180314-808@nominis.cef.fr
+DTSTART;VALUE=DATE:20180314
+SUMMARY:Sainte Mathilde - (+ 968)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/808/Sainte-Mathilde.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/14/3/2018/14-Mars-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180315-810@nominis.cef.fr
+DTSTART;VALUE=DATE:20180315
+SUMMARY:Sainte Louise de Marillac - (+ 1660)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/810/Sainte-Louise-de-Marillac.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/15/3/2018/15-Mars-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180316-813@nominis.cef.fr
+DTSTART;VALUE=DATE:20180316
+SUMMARY:Bienheureuse Bénédicte - (+ 1260)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/813/Bienheureuse-Benedicte.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/16/3/2018/16-Mars-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180317-825@nominis.cef.fr
+DTSTART;VALUE=DATE:20180317
+SUMMARY:Saint Patrick - (+ 461)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/825/Saint-Patrick.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/17/3/2018/17-Mars-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180318-828@nominis.cef.fr
+DTSTART;VALUE=DATE:20180318
+SUMMARY:Saint Cyrille de Jérusalem - (+ 387)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/828/Saint-Cyrille-de-Jerusalem.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/18/3/2018/18-Mars-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180319-833@nominis.cef.fr
+DTSTART;VALUE=DATE:20180319
+SUMMARY:Saint Joseph - (1er s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/833/Saint-Joseph.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/19/3/2018/19-Mars-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180320-838@nominis.cef.fr
+DTSTART;VALUE=DATE:20180320
+SUMMARY:Saint Herbert - (+ 687)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/838/Saint-Herbert.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/20/3/2018/20-Mars-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180321-842@nominis.cef.fr
+DTSTART;VALUE=DATE:20180321
+SUMMARY:Bienheureuse Clémence - (+ 1176)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/842/Bienheureuse-Clemence.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/21/3/2018/21-Mars-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180322-848@nominis.cef.fr
+DTSTART;VALUE=DATE:20180322
+SUMMARY:Sainte Léa - (+ 384)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/848/Sainte-Lea.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/22/3/2018/22-Mars-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180323-849@nominis.cef.fr
+DTSTART;VALUE=DATE:20180323
+SUMMARY:Saint Alphonse Turibe de Mogrovejo - (+ 1606)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/849/Saint-Alphonse-Turibe-de-Mogrovejo.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/23/3/2018/23-Mars-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180324-853@nominis.cef.fr
+DTSTART;VALUE=DATE:20180324
+SUMMARY:Sainte Catherine de Suède - (+ 1381)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/853/Sainte-Catherine-de-Suede.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/24/3/2018/24-Mars-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180325-856@nominis.cef.fr
+DTSTART;VALUE=DATE:20180325
+SUMMARY:Annonciation - 
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/856/Annonciation.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/25/3/2018/25-Mars-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180326-867@nominis.cef.fr
+DTSTART;VALUE=DATE:20180326
+SUMMARY:Sainte Larissa - (4ème s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/867/Sainte-Larissa.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/26/3/2018/26-Mars-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180327-6346@nominis.cef.fr
+DTSTART;VALUE=DATE:20180327
+SUMMARY:Saint Rupert de Salzbourg - (+ 718)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/6346/Saint-Rupert-de-Salzbourg.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/27/3/2018/27-Mars-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180328-876@nominis.cef.fr
+DTSTART;VALUE=DATE:20180328
+SUMMARY:Saint Gontran - (+ 592)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/876/Saint-Gontran.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/28/3/2018/28-Mars-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180329-884@nominis.cef.fr
+DTSTART;VALUE=DATE:20180329
+SUMMARY:Sainte Gladys - (5ème s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/884/Sainte-Gladys.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/29/3/2018/29-Mars-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180330-888@nominis.cef.fr
+DTSTART;VALUE=DATE:20180330
+SUMMARY:Bienheureux Amédée IX - (+ 1472)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/888/Bienheureux-Amedee-IX.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/30/3/2018/30-Mars-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180331-896@nominis.cef.fr
+DTSTART;VALUE=DATE:20180331
+SUMMARY:Saint Benjamin de Perse - (+ 401)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/896/Saint-Benjamin-de-Perse.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/31/3/2018/31-Mars-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180401-901@nominis.cef.fr
+DTSTART;VALUE=DATE:20180401
+SUMMARY:Saint Hugues de Grenoble - (+ 1132)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/901/Saint-Hugues-de-Grenoble.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/1/4/2018/1-Avril-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180402-906@nominis.cef.fr
+DTSTART;VALUE=DATE:20180402
+SUMMARY:Saint François de Paule - (+ 1507)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/906/Saint-Francois-de-Paule.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/2/4/2018/2-Avril-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180403-913@nominis.cef.fr
+DTSTART;VALUE=DATE:20180403
+SUMMARY:Saint Richard de Chichester - (+ 1253)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/913/Saint-Richard-de-Chichester.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/3/4/2018/3-Avril-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180404-915@nominis.cef.fr
+DTSTART;VALUE=DATE:20180404
+SUMMARY:Saint Isidore de Séville - (+ 636)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/915/Saint-Isidore-de-Seville.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/4/4/2018/4-Avril-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180405-2130@nominis.cef.fr
+DTSTART;VALUE=DATE:20180405
+SUMMARY:Sainte Irène - (+ 304)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/2130/Sainte-Irene.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/5/4/2018/5-Avril-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180406-1570@nominis.cef.fr
+DTSTART;VALUE=DATE:20180406
+SUMMARY:Saint Célestin Ier - (+ 432)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1570/Saint-Celestin-Ier.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/6/4/2018/6-Avril-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180407-931@nominis.cef.fr
+DTSTART;VALUE=DATE:20180407
+SUMMARY:Saint Jean Baptiste de La Salle - (+ 1719)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/931/Saint-Jean-Baptiste-de-La-Salle.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/7/4/2018/7-Avril-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180408-938@nominis.cef.fr
+DTSTART;VALUE=DATE:20180408
+SUMMARY:Saint Gautier - (+ 1099)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/938/Saint-Gautier.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/8/4/2018/8-Avril-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180408-934@nominis.cef.fr
+DTSTART;VALUE=DATE:20180408
+SUMMARY:Sainte Julie Billiart - (+ 1816)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/934/Sainte-Julie-Billiart.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/8/4/2018/8-Avril-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180409-10838@nominis.cef.fr
+DTSTART;VALUE=DATE:20180409
+SUMMARY:Saint Demetrius - (4ème s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/10838/Saint-Demetrius.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/9/4/2018/9-Avril-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180409-9783@nominis.cef.fr
+DTSTART;VALUE=DATE:20180409
+SUMMARY:Saint Maxime d'Alexandrie - (+ 288)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/9783/Saint-Maxime-d-Alexandrie.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/9/4/2018/9-Avril-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180410-948@nominis.cef.fr
+DTSTART;VALUE=DATE:20180410
+SUMMARY:Saint Fulbert - (+ 1028)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/948/Saint-Fulbert.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/10/4/2018/10-Avril-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180411-957@nominis.cef.fr
+DTSTART;VALUE=DATE:20180411
+SUMMARY:Saint Stanislas - (+ 1079)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/957/Saint-Stanislas.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/11/4/2018/11-Avril-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180412-958@nominis.cef.fr
+DTSTART;VALUE=DATE:20180412
+SUMMARY:Saint Jules Ier - (+ 352)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/958/Saint-Jules-Ier.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/12/4/2018/12-Avril-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180413-966@nominis.cef.fr
+DTSTART;VALUE=DATE:20180413
+SUMMARY:Sainte Ida de Louvain - (+ 1113)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/966/Sainte-Ida-de-Louvain.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/13/4/2018/13-Avril-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180414-975@nominis.cef.fr
+DTSTART;VALUE=DATE:20180414
+SUMMARY:Saint Maxime - (+ 260)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/975/Saint-Maxime.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/14/4/2018/14-Avril-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180414-13093@nominis.cef.fr
+DTSTART;VALUE=DATE:20180414
+SUMMARY:Vendredi Saint - 
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/13093/Vendredi-Saint.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/14/4/2018/14-Avril-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180415-983@nominis.cef.fr
+DTSTART;VALUE=DATE:20180415
+SUMMARY:Saint Patern de Vannes - (5ème s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/983/Saint-Patern-de-Vannes.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/15/4/2018/15-Avril-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180416-986@nominis.cef.fr
+DTSTART;VALUE=DATE:20180416
+SUMMARY:Saint Benoît-Joseph Labre - (+ 1783)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/986/Saint-Benoit-Joseph-Labre.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/16/4/2018/16-Avril-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180416-662@nominis.cef.fr
+DTSTART;VALUE=DATE:20180416
+SUMMARY:Sainte Bernadette Soubirous - (+ 1879)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/662/Sainte-Bernadette-Soubirous.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/16/4/2018/16-Avril-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180417-9934@nominis.cef.fr
+DTSTART;VALUE=DATE:20180417
+SUMMARY:Sainte Kateri Tekakwitha - (+ 1680)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/9934/Sainte-Kateri-Tekakwitha.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/17/4/2018/17-Avril-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180418-6657@nominis.cef.fr
+DTSTART;VALUE=DATE:20180418
+SUMMARY:Saint Parfait de Cordoue - (+ 850)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/6657/Saint-Parfait-de-Cordoue.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/18/4/2018/18-Avril-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180419-10830@nominis.cef.fr
+DTSTART;VALUE=DATE:20180419
+SUMMARY:Saint Mappalique - (+ 250)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/10830/Saint-Mappalique.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/19/4/2018/19-Avril-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180420-1010@nominis.cef.fr
+DTSTART;VALUE=DATE:20180420
+SUMMARY:Bienheureuse Odette - (+ 1158)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1010/Bienheureuse-Odette.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/20/4/2018/20-Avril-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180421-1013@nominis.cef.fr
+DTSTART;VALUE=DATE:20180421
+SUMMARY:Saint Anselme de Cantorbéry - (+ 1109)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1013/Saint-Anselme-de-Cantorbery.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/21/4/2018/21-Avril-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180422-1018@nominis.cef.fr
+DTSTART;VALUE=DATE:20180422
+SUMMARY:Saint Epipode - (+ 177)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1018/Saint-Epipode.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/22/4/2018/22-Avril-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180423-1024@nominis.cef.fr
+DTSTART;VALUE=DATE:20180423
+SUMMARY:Saint Georges - (+ 303)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1024/Saint-Georges.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/23/4/2018/23-Avril-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180424-1028@nominis.cef.fr
+DTSTART;VALUE=DATE:20180424
+SUMMARY:Saint Fidèle de Sigmaringen - (+ 1622)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1028/Saint-Fidele-de-Sigmaringen.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/24/4/2018/24-Avril-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180425-1033@nominis.cef.fr
+DTSTART;VALUE=DATE:20180425
+SUMMARY:Saint Marc - (1er s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1033/Saint-Marc.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/25/4/2018/25-Avril-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180426-1036@nominis.cef.fr
+DTSTART;VALUE=DATE:20180426
+SUMMARY:Bienheureuse Alde - (+ 1309)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1036/Bienheureuse-Alde.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/26/4/2018/26-Avril-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180427-888@nominis.cef.fr
+DTSTART;VALUE=DATE:20180427
+SUMMARY:Bienheureux Amédée IX - (+ 1472)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/888/Bienheureux-Amedee-IX.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/27/4/2018/27-Avril-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180427-1045@nominis.cef.fr
+DTSTART;VALUE=DATE:20180427
+SUMMARY:Sainte Zita - (+ 1278)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1045/Sainte-Zita.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/27/4/2018/27-Avril-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180428-1051@nominis.cef.fr
+DTSTART;VALUE=DATE:20180428
+SUMMARY:Saint Pierre Marie Chanel - (+ 1841)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1051/Saint-Pierre-Marie-Chanel.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/28/4/2018/28-Avril-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180428-1053@nominis.cef.fr
+DTSTART;VALUE=DATE:20180428
+SUMMARY:Sainte Valérie de Milan - (+ 171)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1053/Sainte-Valerie-de-Milan.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/28/4/2018/28-Avril-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180429-1054@nominis.cef.fr
+DTSTART;VALUE=DATE:20180429
+SUMMARY:Sainte Catherine de Sienne - (+ 1380)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1054/Sainte-Catherine-de-Sienne.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/29/4/2018/29-Avril-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180430-1064@nominis.cef.fr
+DTSTART;VALUE=DATE:20180430
+SUMMARY:Saint Pie V - (+ 1572)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1064/Saint-Pie-V.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/30/4/2018/30-Avril-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180501-6760@nominis.cef.fr
+DTSTART;VALUE=DATE:20180501
+SUMMARY:Saint Jérémie, le prophète - (6ème s. av. J.C.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/6760/Saint-Jeremie--le-prophete.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/1/5/2018/1-Mai-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180501-2120@nominis.cef.fr
+DTSTART;VALUE=DATE:20180501
+SUMMARY:Saint Joseph Artisan - (1er s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/2120/Saint-Joseph-Artisan.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/1/5/2018/1-Mai-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180502-1076@nominis.cef.fr
+DTSTART;VALUE=DATE:20180502
+SUMMARY:Saint Athanase d'Alexandrie - (+ 373)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1076/Saint-Athanase-d-Alexandrie.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/2/5/2018/2-Mai-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180502-1078@nominis.cef.fr
+DTSTART;VALUE=DATE:20180502
+SUMMARY:Saint Boris de Bulgarie - (+ 907)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1078/Saint-Boris-de-Bulgarie.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/2/5/2018/2-Mai-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180503-1085@nominis.cef.fr
+DTSTART;VALUE=DATE:20180503
+SUMMARY:Saint Jacques le Mineur - (1er s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1085/Saint-Jacques-le-Mineur.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/3/5/2018/3-Mai-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180503-1086@nominis.cef.fr
+DTSTART;VALUE=DATE:20180503
+SUMMARY:Saint Philippe - (1er s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1086/Saint-Philippe.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/3/5/2018/3-Mai-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180504-1097@nominis.cef.fr
+DTSTART;VALUE=DATE:20180504
+SUMMARY:Saint Sylvain de Gaza - (+ 311)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1097/Saint-Sylvain-de-Gaza.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/4/5/2018/4-Mai-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180505-1101@nominis.cef.fr
+DTSTART;VALUE=DATE:20180505
+SUMMARY:Sainte Judith - (+ 1260)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1101/Sainte-Judith.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/5/5/2018/5-Mai-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180506-9945@nominis.cef.fr
+DTSTART;VALUE=DATE:20180506
+SUMMARY:Saint Jacques Chastan - (+ 1839)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/9945/Saint-Jacques-Chastan.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/6/5/2018/6-Mai-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180506-1108@nominis.cef.fr
+DTSTART;VALUE=DATE:20180506
+SUMMARY:Bienheureuse Prudence - (+ 1492)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1108/Bienheureuse-Prudence.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/6/5/2018/6-Mai-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180507-1111@nominis.cef.fr
+DTSTART;VALUE=DATE:20180507
+SUMMARY:Bienheureuse Gisèle - (+ 1060)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1111/Bienheureuse-Gisele.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/7/5/2018/7-Mai-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180508-1116@nominis.cef.fr
+DTSTART;VALUE=DATE:20180508
+SUMMARY:Saint Désiré - (+ 550)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1116/Saint-Desire.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/8/5/2018/8-Mai-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180509-1127@nominis.cef.fr
+DTSTART;VALUE=DATE:20180509
+SUMMARY:Saint Pacôme le Grand - (+ 346)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1127/Saint-Pacome-le-Grand.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/9/5/2018/9-Mai-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180510-1131@nominis.cef.fr
+DTSTART;VALUE=DATE:20180510
+SUMMARY:Sainte Solange - (+ 880)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1131/Sainte-Solange.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/10/5/2018/10-Mai-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180511-638@nominis.cef.fr
+DTSTART;VALUE=DATE:20180511
+SUMMARY:Saints Cyrille et Méthode - (9ème s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/638/Saints-Cyrille-et-Methode.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/11/5/2018/11-Mai-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180511-1133@nominis.cef.fr
+DTSTART;VALUE=DATE:20180511
+SUMMARY:Sainte Estelle - (3ème s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1133/Sainte-Estelle.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/11/5/2018/11-Mai-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180512-2131@nominis.cef.fr
+DTSTART;VALUE=DATE:20180512
+SUMMARY:Saint Achille de Larissa - (+ 330)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/2131/Saint-Achille-de-Larissa.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/12/5/2018/12-Mai-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180513-2011@nominis.cef.fr
+DTSTART;VALUE=DATE:20180513
+SUMMARY:Notre-Dame de Fatima - 
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/2011/Notre-Dame-de-Fatima.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/13/5/2018/13-Mai-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180514-1154@nominis.cef.fr
+DTSTART;VALUE=DATE:20180514
+SUMMARY:Saint Matthias - (1er s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1154/Saint-Matthias.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/14/5/2018/14-Mai-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180515-1159@nominis.cef.fr
+DTSTART;VALUE=DATE:20180515
+SUMMARY:Sainte Denise - (+ v. 250)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1159/Sainte-Denise.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/15/5/2018/15-Mai-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180516-1168@nominis.cef.fr
+DTSTART;VALUE=DATE:20180516
+SUMMARY:Saint Honoré - (+ 600)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1168/Saint-Honore.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/16/5/2018/16-Mai-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180517-1175@nominis.cef.fr
+DTSTART;VALUE=DATE:20180517
+SUMMARY:Saint Pascal Baylon - (+ 1592)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1175/Saint-Pascal-Baylon.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/17/5/2018/17-Mai-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180518-6977@nominis.cef.fr
+DTSTART;VALUE=DATE:20180518
+SUMMARY:Saint Dioscore - (+ 303)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/6977/Saint-Dioscore.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/18/5/2018/18-Mai-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180518-1177@nominis.cef.fr
+DTSTART;VALUE=DATE:20180518
+SUMMARY:Saint Eric de Suède - (+ 1160)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1177/Saint-Eric-de-Suede.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/18/5/2018/18-Mai-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180519-1186@nominis.cef.fr
+DTSTART;VALUE=DATE:20180519
+SUMMARY:Saint Yves - (+ 1303)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1186/Saint-Yves.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/19/5/2018/19-Mai-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180520-1151@nominis.cef.fr
+DTSTART;VALUE=DATE:20180520
+SUMMARY:Saint Bernardin de Sienne - (+ 1444)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1151/Saint-Bernardin-de-Sienne.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/20/5/2018/20-Mai-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180520-1614@nominis.cef.fr
+DTSTART;VALUE=DATE:20180520
+SUMMARY:Sainte Lydie - (1er s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1614/Sainte-Lydie.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/20/5/2018/20-Mai-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180521-1190@nominis.cef.fr
+DTSTART;VALUE=DATE:20180521
+SUMMARY:Saint Constantin Ier le Grand - (+ 337)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1190/Saint-Constantin-Ier-le-Grand.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/21/5/2018/21-Mai-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180522-2132@nominis.cef.fr
+DTSTART;VALUE=DATE:20180522
+SUMMARY:Saint Émile - (+ v. 250)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/2132/Saint-%C9mile.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/22/5/2018/22-Mai-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180522-1200@nominis.cef.fr
+DTSTART;VALUE=DATE:20180522
+SUMMARY:Sainte Rita (Marguerite) da Cascia - (+ 1456)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1200/Sainte-Rita-%28Marguerite%29-da-Cascia.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/22/5/2018/22-Mai-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180523-1204@nominis.cef.fr
+DTSTART;VALUE=DATE:20180523
+SUMMARY:Saint Didier de Vienne - (+ v. 607)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1204/Saint-Didier-de-Vienne.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/23/5/2018/23-Mai-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180524-1209@nominis.cef.fr
+DTSTART;VALUE=DATE:20180524
+SUMMARY:Saints Donatien et Rogatien - (+ v. 304)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1209/Saints-Donatien-et-Rogatien.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/24/5/2018/24-Mai-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180525-1216@nominis.cef.fr
+DTSTART;VALUE=DATE:20180525
+SUMMARY:Sainte Madeleine-Sophie Barat - (+ 1865)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1216/Sainte-Madeleine-Sophie-Barat.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/25/5/2018/25-Mai-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180526-1221@nominis.cef.fr
+DTSTART;VALUE=DATE:20180526
+SUMMARY:Saint Bérenger - (+ 1093)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1221/Saint-Berenger.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/26/5/2018/26-Mai-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180526-1227@nominis.cef.fr
+DTSTART;VALUE=DATE:20180526
+SUMMARY:Saint Philippe Neri - (+ 1595)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1227/Saint-Philippe-Neri.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/26/5/2018/26-Mai-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180527-1228@nominis.cef.fr
+DTSTART;VALUE=DATE:20180527
+SUMMARY:Saint Augustin de Cantorbéry - (+ 604)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1228/Saint-Augustin-de-Cantorbery.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/27/5/2018/27-Mai-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180528-1232@nominis.cef.fr
+DTSTART;VALUE=DATE:20180528
+SUMMARY:Saint Germain de Paris - (+ 576)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1232/Saint-Germain-de-Paris.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/28/5/2018/28-Mai-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180529-7145@nominis.cef.fr
+DTSTART;VALUE=DATE:20180529
+SUMMARY:Sainte Ursule Ledochowska - (+ 1939)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/7145/Sainte-Ursule-Ledochowska.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/29/5/2018/29-Mai-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180530-1246@nominis.cef.fr
+DTSTART;VALUE=DATE:20180530
+SUMMARY:Saint Ferdinand III le Saint - (+ 1252)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1246/Saint-Ferdinand-III-le-Saint.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/30/5/2018/30-Mai-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180530-1137@nominis.cef.fr
+DTSTART;VALUE=DATE:20180530
+SUMMARY:Sainte Jeanne d'Arc - (+ 1431)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1137/Sainte-Jeanne-d-Arc.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/30/5/2018/30-Mai-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180531-1252@nominis.cef.fr
+DTSTART;VALUE=DATE:20180531
+SUMMARY:Visitation de la Vierge Marie - 
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1252/Visitation-de-la-Vierge-Marie.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/31/5/2018/31-Mai-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180601-1256@nominis.cef.fr
+DTSTART;VALUE=DATE:20180601
+SUMMARY:Saint Justin - (+ 165)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1256/Saint-Justin.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/1/6/2018/1-Juin-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180602-1259@nominis.cef.fr
+DTSTART;VALUE=DATE:20180602
+SUMMARY:Saints Blandine et Pothin - (+ 177)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1259/Saints-Blandine-et-Pothin.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/2/6/2018/2-Juin-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180603-1266@nominis.cef.fr
+DTSTART;VALUE=DATE:20180603
+SUMMARY:Saint Kevin - (+ 618)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1266/Saint-Kevin.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/3/6/2018/3-Juin-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180603-1267@nominis.cef.fr
+DTSTART;VALUE=DATE:20180603
+SUMMARY:Saints Martyrs de l'Ouganda - (+ 1886)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1267/Saints-Martyrs-de-l-Ouganda.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/3/6/2018/3-Juin-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180604-1268@nominis.cef.fr
+DTSTART;VALUE=DATE:20180604
+SUMMARY:Sainte Clotilde - (+ 545)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1268/Sainte-Clotilde.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/4/6/2018/4-Juin-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180604-1589@nominis.cef.fr
+DTSTART;VALUE=DATE:20180604
+SUMMARY:Sainte Marthe - (1er s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1589/Sainte-Marthe.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/4/6/2018/4-Juin-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180605-1274@nominis.cef.fr
+DTSTART;VALUE=DATE:20180605
+SUMMARY:Saint Boniface - (+ 754)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1274/Saint-Boniface.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/5/6/2018/5-Juin-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180605-1277@nominis.cef.fr
+DTSTART;VALUE=DATE:20180605
+SUMMARY:Saint Igor II - (+ 1147)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1277/Saint-Igor-II.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/5/6/2018/5-Juin-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180606-1281@nominis.cef.fr
+DTSTART;VALUE=DATE:20180606
+SUMMARY:Saint Claude - (+ 699)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1281/Saint-Claude.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/6/6/2018/6-Juin-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180606-1283@nominis.cef.fr
+DTSTART;VALUE=DATE:20180606
+SUMMARY:Saint Norbert de Xanten - (+ 1134)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1283/Saint-Norbert-de-Xanten.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/6/6/2018/6-Juin-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180607-630@nominis.cef.fr
+DTSTART;VALUE=DATE:20180607
+SUMMARY:Saint Gilbert - (+ 1152)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/630/Saint-Gilbert.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/7/6/2018/7-Juin-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180608-1293@nominis.cef.fr
+DTSTART;VALUE=DATE:20180608
+SUMMARY:Saint Médard de Noyon - (+ 560)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1293/Saint-Medard-de-Noyon.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/8/6/2018/8-Juin-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180609-1298@nominis.cef.fr
+DTSTART;VALUE=DATE:20180609
+SUMMARY:Saint Ephrem le Syrien - (+ 373)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1298/Saint-Ephrem-le-Syrien.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/9/6/2018/9-Juin-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180610-1302@nominis.cef.fr
+DTSTART;VALUE=DATE:20180610
+SUMMARY:Saint Landry - (+ 656)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1302/Saint-Landry.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/10/6/2018/10-Juin-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180611-1305@nominis.cef.fr
+DTSTART;VALUE=DATE:20180611
+SUMMARY:Saint Barnabé - (1er s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1305/Saint-Barnabe.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/11/6/2018/11-Juin-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180612-1308@nominis.cef.fr
+DTSTART;VALUE=DATE:20180612
+SUMMARY:Bienheureux Guy Vignotelli - (+ 1245)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1308/Bienheureux-Guy-Vignotelli.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/12/6/2018/12-Juin-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180613-1313@nominis.cef.fr
+DTSTART;VALUE=DATE:20180613
+SUMMARY:Saint Antoine de Padoue - (+ 1231)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1313/Saint-Antoine-de-Padoue.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/13/6/2018/13-Juin-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180614-1318@nominis.cef.fr
+DTSTART;VALUE=DATE:20180614
+SUMMARY:Saint Elisée - (9ème s. av. J.C.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1318/Saint-Elisee.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/14/6/2018/14-Juin-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180615-1324@nominis.cef.fr
+DTSTART;VALUE=DATE:20180615
+SUMMARY:Sainte Germaine Cousin - (+ 1601)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1324/Sainte-Germaine-Cousin.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/15/6/2018/15-Juin-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180616-9847@nominis.cef.fr
+DTSTART;VALUE=DATE:20180616
+SUMMARY:Saint Jean François Régis - (+ 1640)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/9847/Saint-Jean-Francois-Regis.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/16/6/2018/16-Juin-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180617-1336@nominis.cef.fr
+DTSTART;VALUE=DATE:20180617
+SUMMARY:Saint Hervé - (+ 568)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1336/Saint-Herve.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/17/6/2018/17-Juin-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180618-1342@nominis.cef.fr
+DTSTART;VALUE=DATE:20180618
+SUMMARY:Saint Léonce de Tripoli - (4ème s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1342/Saint-Leonce-de-Tripoli.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/18/6/2018/18-Juin-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180619-2092@nominis.cef.fr
+DTSTART;VALUE=DATE:20180619
+SUMMARY:Saint Jude - (1er s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/2092/Saint-Jude.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/19/6/2018/19-Juin-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180619-1352@nominis.cef.fr
+DTSTART;VALUE=DATE:20180619
+SUMMARY:Saint Romuald - (+ 1027)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1352/Saint-Romuald.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/19/6/2018/19-Juin-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180620-1357@nominis.cef.fr
+DTSTART;VALUE=DATE:20180620
+SUMMARY:Saint Silvère - (+ 537)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1357/Saint-Silvere.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/20/6/2018/20-Juin-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180621-1363@nominis.cef.fr
+DTSTART;VALUE=DATE:20180621
+SUMMARY:Saint Louis de Gonzague - (+ 1591)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1363/Saint-Louis-de-Gonzague.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/21/6/2018/21-Juin-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180621-7376@nominis.cef.fr
+DTSTART;VALUE=DATE:20180621
+SUMMARY:Saint Raoul - (+ 866)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/7376/Saint-Raoul.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/21/6/2018/21-Juin-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180622-1366@nominis.cef.fr
+DTSTART;VALUE=DATE:20180622
+SUMMARY:Saint Auban - (+ v. 304)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1366/Saint-Auban.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/22/6/2018/22-Juin-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180623-1373@nominis.cef.fr
+DTSTART;VALUE=DATE:20180623
+SUMMARY:Sainte Etheldrede - (+ 679)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1373/Sainte-Etheldrede.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/23/6/2018/23-Juin-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180623-7373@nominis.cef.fr
+DTSTART;VALUE=DATE:20180623
+SUMMARY:Sainte Paule - (3ème s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/7373/Sainte-Paule.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/23/6/2018/23-Juin-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180624-1380@nominis.cef.fr
+DTSTART;VALUE=DATE:20180624
+SUMMARY:Saint Jean Baptiste - (1er s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1380/Saint-Jean-Baptiste.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/24/6/2018/24-Juin-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180625-1390@nominis.cef.fr
+DTSTART;VALUE=DATE:20180625
+SUMMARY:Saint Prosper d'Aquitaine - (+ v. 460)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1390/Saint-Prosper-d-Aquitaine.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/25/6/2018/25-Juin-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180626-1392@nominis.cef.fr
+DTSTART;VALUE=DATE:20180626
+SUMMARY:Saint Anthelme de Chignin - (+ 1178)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1392/Saint-Anthelme-de-Chignin.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/26/6/2018/26-Juin-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180627-1398@nominis.cef.fr
+DTSTART;VALUE=DATE:20180627
+SUMMARY:Saint Cyrille d'Alexandrie - (+ 444)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1398/Saint-Cyrille-d-Alexandrie.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/27/6/2018/27-Juin-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180627-9996@nominis.cef.fr
+DTSTART;VALUE=DATE:20180627
+SUMMARY:Saint Ferdinand d'Aragon - (13ème s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/9996/Saint-Ferdinand-d-Aragon.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/27/6/2018/27-Juin-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180628-1403@nominis.cef.fr
+DTSTART;VALUE=DATE:20180628
+SUMMARY:Saint Irénée de Lyon - (+ v. 201)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1403/Saint-Irenee-de-Lyon.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/28/6/2018/28-Juin-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180629-2116@nominis.cef.fr
+DTSTART;VALUE=DATE:20180629
+SUMMARY:Saint Paul - (1er s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/2116/Saint-Paul.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/29/6/2018/29-Juin-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180629-899@nominis.cef.fr
+DTSTART;VALUE=DATE:20180629
+SUMMARY:Saint Pierre - (+ 64)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/899/Saint-Pierre.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/29/6/2018/29-Juin-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180630-1412@nominis.cef.fr
+DTSTART;VALUE=DATE:20180630
+SUMMARY:Saint Martial de Limoges - (3ème s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1412/Saint-Martial-de-Limoges.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/30/6/2018/30-Juin-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180701-1422@nominis.cef.fr
+DTSTART;VALUE=DATE:20180701
+SUMMARY:Saint Thierry - (+ 533)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1422/Saint-Thierry.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/1/7/2018/1-Juillet-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180702-9949@nominis.cef.fr
+DTSTART;VALUE=DATE:20180702
+SUMMARY:Bienheureuse Eugénie Joubert - (+ 1904)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/9949/Bienheureuse-Eugenie-Joubert.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/2/7/2018/2-Juillet-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180702-1426@nominis.cef.fr
+DTSTART;VALUE=DATE:20180702
+SUMMARY:Saint Martinien - (1er s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1426/Saint-Martinien.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/2/7/2018/2-Juillet-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180703-296@nominis.cef.fr
+DTSTART;VALUE=DATE:20180703
+SUMMARY:Saint Thomas - (1er s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/296/Saint-Thomas.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/3/7/2018/3-Juillet-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180704-1599@nominis.cef.fr
+DTSTART;VALUE=DATE:20180704
+SUMMARY:Sainte Elisabeth du Portugal - (+ 1336)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1599/Sainte-Elisabeth-du-Portugal.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/4/7/2018/4-Juillet-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180705-1443@nominis.cef.fr
+DTSTART;VALUE=DATE:20180705
+SUMMARY:Saint Antoine-Marie Zaccaria - (+ 1539)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1443/Saint-Antoine-Marie-Zaccaria.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/5/7/2018/5-Juillet-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180706-1454@nominis.cef.fr
+DTSTART;VALUE=DATE:20180706
+SUMMARY:Sainte Maria Goretti - (+ 1902)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1454/Sainte-Maria-Goretti.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/6/7/2018/6-Juillet-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180707-7505@nominis.cef.fr
+DTSTART;VALUE=DATE:20180707
+SUMMARY:Saint Ralph Milner - (+ 1591)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/7505/Saint-Ralph-Milner.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/7/7/2018/7-Juillet-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180707-1463@nominis.cef.fr
+DTSTART;VALUE=DATE:20180707
+SUMMARY:Saint Roger Dickenson - (+ 1591)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1463/Saint-Roger-Dickenson.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/7/7/2018/7-Juillet-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180708-1465@nominis.cef.fr
+DTSTART;VALUE=DATE:20180708
+SUMMARY:Saints Aquila et Priscille - (1er s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1465/Saints-Aquila-et-Priscille.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/8/7/2018/8-Juillet-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180709-11922@nominis.cef.fr
+DTSTART;VALUE=DATE:20180709
+SUMMARY:Saints Augustin ZhaoRong et ses compagnons - 
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/11922/Saints-Augustin-ZhaoRong-et-ses-compagnons.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/9/7/2018/9-Juillet-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180709-9910@nominis.cef.fr
+DTSTART;VALUE=DATE:20180709
+SUMMARY:Sainte Marie-Hermine de Jésus - (+ 1900)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/9910/Sainte-Marie-Hermine-de-Jesus.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/9/7/2018/9-Juillet-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180710-1481@nominis.cef.fr
+DTSTART;VALUE=DATE:20180710
+SUMMARY:Saint Ulric - (+ 1093)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1481/Saint-Ulric.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/10/7/2018/10-Juillet-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180711-1483@nominis.cef.fr
+DTSTART;VALUE=DATE:20180711
+SUMMARY:Saint Benoît - (+ v. 547)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1483/Saint-Benoit.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/11/7/2018/11-Juillet-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180712-1492@nominis.cef.fr
+DTSTART;VALUE=DATE:20180712
+SUMMARY:Saints Nabor et Félix - (+ v. 304)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1492/Saints-Nabor-et-Felix.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/12/7/2018/12-Juillet-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180712-1600@nominis.cef.fr
+DTSTART;VALUE=DATE:20180712
+SUMMARY:Saint Olivier Plunket - (+ 1681)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1600/Saint-Olivier-Plunket.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/12/7/2018/12-Juillet-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180713-1497@nominis.cef.fr
+DTSTART;VALUE=DATE:20180713
+SUMMARY:Saint Henri II - (+ 1024)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1497/Saint-Henri-II.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/13/7/2018/13-Juillet-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180714-1504@nominis.cef.fr
+DTSTART;VALUE=DATE:20180714
+SUMMARY:Saint Camille de Lellis - (+ 1614)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1504/Saint-Camille-de-Lellis.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/14/7/2018/14-Juillet-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180715-1513@nominis.cef.fr
+DTSTART;VALUE=DATE:20180715
+SUMMARY:Saint Bonaventure - (+ 1274)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1513/Saint-Bonaventure.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/15/7/2018/15-Juillet-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180716-1520@nominis.cef.fr
+DTSTART;VALUE=DATE:20180716
+SUMMARY:Notre-Dame du mont Carmel - 
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1520/Notre-Dame-du-mont-Carmel.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/16/7/2018/16-Juillet-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180717-1522@nominis.cef.fr
+DTSTART;VALUE=DATE:20180717
+SUMMARY:Bienheureuse Charlotte - (+ 1794)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1522/Bienheureuse-Charlotte.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/17/7/2018/17-Juillet-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180718-1531@nominis.cef.fr
+DTSTART;VALUE=DATE:20180718
+SUMMARY:Saint Frédéric - (+ 838)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1531/Saint-Frederic.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/18/7/2018/18-Juillet-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180719-7643@nominis.cef.fr
+DTSTART;VALUE=DATE:20180719
+SUMMARY:Sainte Macrine la Jeune - (+ 379)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/7643/Sainte-Macrine-la-Jeune.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/19/7/2018/19-Juillet-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180720-7642@nominis.cef.fr
+DTSTART;VALUE=DATE:20180720
+SUMMARY:Saint Aurèle - (+ 430)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/7642/Saint-Aurele.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/20/7/2018/20-Juillet-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180721-1546@nominis.cef.fr
+DTSTART;VALUE=DATE:20180721
+SUMMARY:Saint Laurent de Brindisi - (+ 1619)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1546/Saint-Laurent-de-Brindisi.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/21/7/2018/21-Juillet-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180721-1548@nominis.cef.fr
+DTSTART;VALUE=DATE:20180721
+SUMMARY:Saint Victor de Marseille - (+ v. 290)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1548/Saint-Victor-de-Marseille.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/21/7/2018/21-Juillet-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180722-1549@nominis.cef.fr
+DTSTART;VALUE=DATE:20180722
+SUMMARY:Sainte Marie-Madeleine - (1er s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1549/Sainte-Marie-Madeleine.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/22/7/2018/22-Juillet-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180723-1552@nominis.cef.fr
+DTSTART;VALUE=DATE:20180723
+SUMMARY:Sainte Brigitte de Suède - (+ 1373)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1552/Sainte-Brigitte-de-Suede.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/23/7/2018/23-Juillet-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180724-1557@nominis.cef.fr
+DTSTART;VALUE=DATE:20180724
+SUMMARY:Sainte Christine l'Admirable - (+ 1224)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1557/Sainte-Christine-l-Admirable.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/24/7/2018/24-Juillet-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180725-1563@nominis.cef.fr
+DTSTART;VALUE=DATE:20180725
+SUMMARY:Saint Christophe - (3ème s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1563/Saint-Christophe.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/25/7/2018/25-Juillet-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180725-1094@nominis.cef.fr
+DTSTART;VALUE=DATE:20180725
+SUMMARY:Saint Jacques le Majeur - (+ 44)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1094/Saint-Jacques-le-Majeur.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/25/7/2018/25-Juillet-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180726-1564@nominis.cef.fr
+DTSTART;VALUE=DATE:20180726
+SUMMARY:Saints Anne et Joachim - (1er s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1564/Saints-Anne-et-Joachim.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/26/7/2018/26-Juillet-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180727-2137@nominis.cef.fr
+DTSTART;VALUE=DATE:20180727
+SUMMARY:Sainte Nathalie et  ses compagnons - (+ 852)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/2137/Sainte-Nathalie-et--ses-compagnons.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/27/7/2018/27-Juillet-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180728-1584@nominis.cef.fr
+DTSTART;VALUE=DATE:20180728
+SUMMARY:Saint Samson - (+ 565)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1584/Saint-Samson.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/28/7/2018/28-Juillet-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180729-1589@nominis.cef.fr
+DTSTART;VALUE=DATE:20180729
+SUMMARY:Sainte Marthe - (1er s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1589/Sainte-Marthe.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/29/7/2018/29-Juillet-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180730-1593@nominis.cef.fr
+DTSTART;VALUE=DATE:20180730
+SUMMARY:Sainte Juliette - (+ 303)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1593/Sainte-Juliette.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/30/7/2018/30-Juillet-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180730-211@nominis.cef.fr
+DTSTART;VALUE=DATE:20180730
+SUMMARY:Saint Pierre Chrysologue - (+ 451)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/211/Saint-Pierre-Chrysologue.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/30/7/2018/30-Juillet-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180731-1596@nominis.cef.fr
+DTSTART;VALUE=DATE:20180731
+SUMMARY:Saint Ignace de Loyola - (+ 1556)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1596/Saint-Ignace-de-Loyola.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/31/7/2018/31-Juillet-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180801-1601@nominis.cef.fr
+DTSTART;VALUE=DATE:20180801
+SUMMARY:Saint Alphonse-Marie de Liguori - (+ 1787)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1601/Saint-Alphonse-Marie-de-Liguori.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/1/8/2018/1-Aout-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180802-1610@nominis.cef.fr
+DTSTART;VALUE=DATE:20180802
+SUMMARY:Saint Pierre-Julien Eymard - (+ 1868)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1610/Saint-Pierre-Julien-Eymard.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/2/8/2018/2-Aout-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180803-1614@nominis.cef.fr
+DTSTART;VALUE=DATE:20180803
+SUMMARY:Sainte Lydie - (1er s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1614/Sainte-Lydie.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/3/8/2018/3-Aout-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180803-2061@nominis.cef.fr
+DTSTART;VALUE=DATE:20180803
+SUMMARY:Sainte Salomé la Myrophore - (1er s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/2061/Sainte-Salome-la-Myrophore.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/3/8/2018/3-Aout-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180804-1621@nominis.cef.fr
+DTSTART;VALUE=DATE:20180804
+SUMMARY:Saint Jean-Marie Vianney - (+ 1859)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1621/Saint-Jean-Marie-Vianney.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/4/8/2018/4-Aout-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180805-2138@nominis.cef.fr
+DTSTART;VALUE=DATE:20180805
+SUMMARY:Saint Abel de Lobbes - (+ 770)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/2138/Saint-Abel-de-Lobbes.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/5/8/2018/5-Aout-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180805-1623@nominis.cef.fr
+DTSTART;VALUE=DATE:20180805
+SUMMARY:Dédicace de Sainte-Marie-Majeure - 
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1623/Dedicace-de-Sainte-Marie-Majeure.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/5/8/2018/5-Aout-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180806-1633@nominis.cef.fr
+DTSTART;VALUE=DATE:20180806
+SUMMARY:Transfiguration du Seigneur - (1er s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1633/Transfiguration-du-Seigneur.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/6/8/2018/6-Aout-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180807-1635@nominis.cef.fr
+DTSTART;VALUE=DATE:20180807
+SUMMARY:Saint Gaétan de Thiene - (+ 1547)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1635/Saint-Gaetan-de-Thiene.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/7/8/2018/7-Aout-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180808-1619@nominis.cef.fr
+DTSTART;VALUE=DATE:20180808
+SUMMARY:Saint Dominique de Guzman - (+ 1221)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1619/Saint-Dominique-de-Guzman.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/8/8/2018/8-Aout-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180809-7859@nominis.cef.fr
+DTSTART;VALUE=DATE:20180809
+SUMMARY:Sainte Thérèse Bénédicte de La Croix - (+ 1942)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/7859/Sainte-Therese-Benedicte-de-La-Croix.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/9/8/2018/9-Aout-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180810-1652@nominis.cef.fr
+DTSTART;VALUE=DATE:20180810
+SUMMARY:Saint Laurent de Rome - (+ 258)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1652/Saint-Laurent-de-Rome.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/10/8/2018/10-Aout-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180811-1654@nominis.cef.fr
+DTSTART;VALUE=DATE:20180811
+SUMMARY:Sainte Claire d'Assise - (+ 1253)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1654/Sainte-Claire-d-Assise.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/11/8/2018/11-Aout-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180811-9872@nominis.cef.fr
+DTSTART;VALUE=DATE:20180811
+SUMMARY:Sainte Suzanne - 
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/9872/Sainte-Suzanne.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/11/8/2018/11-Aout-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180812-249@nominis.cef.fr
+DTSTART;VALUE=DATE:20180812
+SUMMARY:Sainte Jeanne-Françoise de Chantal - (+ 1641)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/249/Sainte-Jeanne-Francoise-de-Chantal.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/12/8/2018/12-Aout-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180813-1661@nominis.cef.fr
+DTSTART;VALUE=DATE:20180813
+SUMMARY:Saint Hippolyte de Rome - (+ 235)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1661/Saint-Hippolyte-de-Rome.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/13/8/2018/13-Aout-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180814-1669@nominis.cef.fr
+DTSTART;VALUE=DATE:20180814
+SUMMARY:Saint Maximilien Kolbe - (+ 1941)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1669/Saint-Maximilien-Kolbe.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/14/8/2018/14-Aout-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180815-980@nominis.cef.fr
+DTSTART;VALUE=DATE:20180815
+SUMMARY:Assomption de la Vierge Marie - (1er s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/980/Assomption-de-la-Vierge-Marie.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/15/8/2018/15-Aout-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180816-2114@nominis.cef.fr
+DTSTART;VALUE=DATE:20180816
+SUMMARY:Saint Armel - (+ 570)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/2114/Saint-Armel.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/16/8/2018/16-Aout-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180816-7905@nominis.cef.fr
+DTSTART;VALUE=DATE:20180816
+SUMMARY:Saint Etienne de Hongrie - (+ 1038)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/7905/Saint-Etienne-de-Hongrie.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/16/8/2018/16-Aout-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180817-1680@nominis.cef.fr
+DTSTART;VALUE=DATE:20180817
+SUMMARY:Sainte Claire de Montefalco - (+ 1308)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1680/Sainte-Claire-de-Montefalco.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/17/8/2018/17-Aout-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180817-7911@nominis.cef.fr
+DTSTART;VALUE=DATE:20180817
+SUMMARY:Saint Dimitrios le Jeune - (+ 1808)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/7911/Saint-Dimitrios-le-Jeune.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/17/8/2018/17-Aout-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180818-1687@nominis.cef.fr
+DTSTART;VALUE=DATE:20180818
+SUMMARY:Sainte Hélène - (+ 329)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1687/Sainte-Helene.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/18/8/2018/18-Aout-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180819-1696@nominis.cef.fr
+DTSTART;VALUE=DATE:20180819
+SUMMARY:Saint Jean Eudes - (+ 1680)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1696/Saint-Jean-Eudes.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/19/8/2018/19-Aout-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180820-1702@nominis.cef.fr
+DTSTART;VALUE=DATE:20180820
+SUMMARY:Saint Bernard de Clairvaux - (+ 1153)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1702/Saint-Bernard-de-Clairvaux.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/20/8/2018/20-Aout-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180821-220@nominis.cef.fr
+DTSTART;VALUE=DATE:20180821
+SUMMARY:Saint Pie X - (+ 1914)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/220/Saint-Pie-X.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/21/8/2018/21-Aout-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180822-1720@nominis.cef.fr
+DTSTART;VALUE=DATE:20180822
+SUMMARY:Mémoire de la Vierge Marie Reine - (1er s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1720/Memoire-de-la-Vierge-Marie-Reine.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/22/8/2018/22-Aout-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180822-1719@nominis.cef.fr
+DTSTART;VALUE=DATE:20180822
+SUMMARY:Saint Symphorien d'Autun - (3ème s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1719/Saint-Symphorien-d-Autun.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/22/8/2018/22-Aout-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180823-1723@nominis.cef.fr
+DTSTART;VALUE=DATE:20180823
+SUMMARY:Sainte Rose de Lima - (+ 1617)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1723/Sainte-Rose-de-Lima.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/23/8/2018/23-Aout-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180824-1725@nominis.cef.fr
+DTSTART;VALUE=DATE:20180824
+SUMMARY:Saint Barthélemy - (1er s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1725/Saint-Barthelemy.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/24/8/2018/24-Aout-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180825-1735@nominis.cef.fr
+DTSTART;VALUE=DATE:20180825
+SUMMARY:Saint Louis - (+ 1270)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1735/Saint-Louis.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/25/8/2018/25-Aout-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180825-511@nominis.cef.fr
+DTSTART;VALUE=DATE:20180825
+SUMMARY:Saints Tite et Timothée - (1er s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/511/Saints-Tite-et-Timothee.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/25/8/2018/25-Aout-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180826-1740@nominis.cef.fr
+DTSTART;VALUE=DATE:20180826
+SUMMARY:Saint Césaire d'Arles - (+ 542)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1740/Saint-Cesaire-d-Arles.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/26/8/2018/26-Aout-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180827-1095@nominis.cef.fr
+DTSTART;VALUE=DATE:20180827
+SUMMARY:Sainte Monique - (+ 387)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1095/Sainte-Monique.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/27/8/2018/27-Aout-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180828-1751@nominis.cef.fr
+DTSTART;VALUE=DATE:20180828
+SUMMARY:Saint Augustin - (+ 430)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1751/Saint-Augustin.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/28/8/2018/28-Aout-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180829-1757@nominis.cef.fr
+DTSTART;VALUE=DATE:20180829
+SUMMARY:Martyre de saint Jean Baptiste - (1er s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1757/Martyre-de-saint-Jean-Baptiste.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/29/8/2018/29-Aout-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180829-1761@nominis.cef.fr
+DTSTART;VALUE=DATE:20180829
+SUMMARY:Sainte Sabine - 
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1761/Sainte-Sabine.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/29/8/2018/29-Aout-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180830-1763@nominis.cef.fr
+DTSTART;VALUE=DATE:20180830
+SUMMARY:Saint Fiacre - (+ 670)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1763/Saint-Fiacre.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/30/8/2018/30-Aout-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180831-1766@nominis.cef.fr
+DTSTART;VALUE=DATE:20180831
+SUMMARY:Saint Aristide - (2ème s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1766/Saint-Aristide.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/31/8/2018/31-Aout-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180901-1774@nominis.cef.fr
+DTSTART;VALUE=DATE:20180901
+SUMMARY:Saint Gilles - (+ 720)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1774/Saint-Gilles.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/1/9/2018/1-Septembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180902-1782@nominis.cef.fr
+DTSTART;VALUE=DATE:20180902
+SUMMARY:Sainte Ingrid de Skänninge - (+ 1282)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1782/Sainte-Ingrid-de-Sk%E4nninge.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/2/9/2018/2-Septembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180903-1787@nominis.cef.fr
+DTSTART;VALUE=DATE:20180903
+SUMMARY:Saint Grégoire le Grand - (+ 604)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1787/Saint-Gregoire-le-Grand.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/3/9/2018/3-Septembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180904-1799@nominis.cef.fr
+DTSTART;VALUE=DATE:20180904
+SUMMARY:Sainte Rosalie - (+ 1170)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1799/Sainte-Rosalie.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/4/9/2018/4-Septembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180905-1803@nominis.cef.fr
+DTSTART;VALUE=DATE:20180905
+SUMMARY:Sainte Raïssa - (4ème s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1803/Sainte-Raissa.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/5/9/2018/5-Septembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180906-2115@nominis.cef.fr
+DTSTART;VALUE=DATE:20180906
+SUMMARY:Bienheureux Bertrand de Garrigues - (+ v. 1230)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/2115/Bienheureux-Bertrand-de-Garrigues.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/6/9/2018/6-Septembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180907-1807@nominis.cef.fr
+DTSTART;VALUE=DATE:20180907
+SUMMARY:Sainte Reine - (+ 252)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1807/Sainte-Reine.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/7/9/2018/7-Septembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180908-1816@nominis.cef.fr
+DTSTART;VALUE=DATE:20180908
+SUMMARY:Nativité de la Vierge Marie - 
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1816/Nativite-de-la-Vierge-Marie.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/8/9/2018/8-Septembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180909-1818@nominis.cef.fr
+DTSTART;VALUE=DATE:20180909
+SUMMARY:Bienheureux Alain de la Roche - (+ 1475)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1818/Bienheureux-Alain-de-la-Roche.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/9/9/2018/9-Septembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180909-8155@nominis.cef.fr
+DTSTART;VALUE=DATE:20180909
+SUMMARY:Saint Pierre Claver - (+ 1654)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/8155/Saint-Pierre-Claver.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/9/9/2018/9-Septembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180910-1828@nominis.cef.fr
+DTSTART;VALUE=DATE:20180910
+SUMMARY:Bienheureuse Inès - (+ 1622)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1828/Bienheureuse-Ines.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/10/9/2018/10-Septembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180911-8188@nominis.cef.fr
+DTSTART;VALUE=DATE:20180911
+SUMMARY:Sainte Théodora - (+ 491)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/8188/Sainte-Theodora.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/11/9/2018/11-Septembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180912-10396@nominis.cef.fr
+DTSTART;VALUE=DATE:20180912
+SUMMARY:Le saint nom de Marie - 
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/10396/Le-saint-nom-de-Marie.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/12/9/2018/12-Septembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180913-5401@nominis.cef.fr
+DTSTART;VALUE=DATE:20180913
+SUMMARY:Saint Jean Chrysostome - (+ 407)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/5401/Saint-Jean-Chrysostome.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/13/9/2018/13-Septembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180914-1850@nominis.cef.fr
+DTSTART;VALUE=DATE:20180914
+SUMMARY:Exaltation de la sainte Croix - 
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1850/Exaltation-de-la-sainte-Croix.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/14/9/2018/14-Septembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180915-1857@nominis.cef.fr
+DTSTART;VALUE=DATE:20180915
+SUMMARY:Notre-Dame des sept Douleurs - 
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1857/Notre-Dame-des-sept-Douleurs.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/15/9/2018/15-Septembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180916-10415@nominis.cef.fr
+DTSTART;VALUE=DATE:20180916
+SUMMARY:Saints Corneille et Cyprien - (3ème s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/10415/Saints-Corneille-et-Cyprien.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/16/9/2018/16-Septembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180916-37@nominis.cef.fr
+DTSTART;VALUE=DATE:20180916
+SUMMARY:Sainte Edith de Barking - (+ 984)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/37/Sainte-Edith-de-Barking.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/16/9/2018/16-Septembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180917-1865@nominis.cef.fr
+DTSTART;VALUE=DATE:20180917
+SUMMARY:Sainte Hildegarde de Bingen - (+ 1179)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1865/Sainte-Hildegarde-de-Bingen.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/17/9/2018/17-Septembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180917-1148@nominis.cef.fr
+DTSTART;VALUE=DATE:20180917
+SUMMARY:Saint Robert Bellarmin - (+ 1621)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1148/Saint-Robert-Bellarmin.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/17/9/2018/17-Septembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180918-1874@nominis.cef.fr
+DTSTART;VALUE=DATE:20180918
+SUMMARY:Saint Joseph de Cupertino - (+ 1663)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1874/Saint-Joseph-de-Cupertino.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/18/9/2018/18-Septembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180919-1881@nominis.cef.fr
+DTSTART;VALUE=DATE:20180919
+SUMMARY:Saint Janvier de Naples - (+ 305)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1881/Saint-Janvier-de-Naples.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/19/9/2018/19-Septembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180919-1880@nominis.cef.fr
+DTSTART;VALUE=DATE:20180919
+SUMMARY:Sainte Marie-Emilie de Rodat - (+ 1852)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1880/Sainte-Marie-Emilie-de-Rodat.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/19/9/2018/19-Septembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180920-1884@nominis.cef.fr
+DTSTART;VALUE=DATE:20180920
+SUMMARY:Saint André Kim Taegon - (19ème s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1884/Saint-Andre-Kim-Taegon.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/20/9/2018/20-Septembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180921-1066@nominis.cef.fr
+DTSTART;VALUE=DATE:20180921
+SUMMARY:Saint Matthieu - (1er s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1066/Saint-Matthieu.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/21/9/2018/21-Septembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180922-1897@nominis.cef.fr
+DTSTART;VALUE=DATE:20180922
+SUMMARY:Saint Maurice - (+ v. 287)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1897/Saint-Maurice.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/22/9/2018/22-Septembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180922-9958@nominis.cef.fr
+DTSTART;VALUE=DATE:20180922
+SUMMARY:Saint Silvain - (5ème s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/9958/Saint-Silvain.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/22/9/2018/22-Septembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180923-619@nominis.cef.fr
+DTSTART;VALUE=DATE:20180923
+SUMMARY:Saint Constant - (5ème s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/619/Saint-Constant.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/23/9/2018/23-Septembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180923-9953@nominis.cef.fr
+DTSTART;VALUE=DATE:20180923
+SUMMARY:Saint Pio de Pietrelcina - (+ 1968)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/9953/Saint-Pio-de-Pietrelcina.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/23/9/2018/23-Septembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180924-8333@nominis.cef.fr
+DTSTART;VALUE=DATE:20180924
+SUMMARY:Saint Silouane - (+ 1938)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/8333/Saint-Silouane.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/24/9/2018/24-Septembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180925-1914@nominis.cef.fr
+DTSTART;VALUE=DATE:20180925
+SUMMARY:Saint Firmin - (4ème s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1914/Saint-Firmin.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/25/9/2018/25-Septembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180926-1921@nominis.cef.fr
+DTSTART;VALUE=DATE:20180926
+SUMMARY:Saints Côme et Damien - (3ème s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1921/Saints-Come-et-Damien.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/26/9/2018/26-Septembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180927-1927@nominis.cef.fr
+DTSTART;VALUE=DATE:20180927
+SUMMARY:Saint Vincent de Paul - (+ 1660)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1927/Saint-Vincent-de-Paul.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/27/9/2018/27-Septembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180928-1691@nominis.cef.fr
+DTSTART;VALUE=DATE:20180928
+SUMMARY:Saints Laurent Ruiz et 15 compagnons - (+ v. 1635)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1691/Saints-Laurent-Ruiz-et-15-compagnons.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/28/9/2018/28-Septembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180928-1934@nominis.cef.fr
+DTSTART;VALUE=DATE:20180928
+SUMMARY:Saint Venceslas - (+ 929)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1934/Saint-Venceslas.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/28/9/2018/28-Septembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180929-977@nominis.cef.fr
+DTSTART;VALUE=DATE:20180929
+SUMMARY:Saint Gabriel - 
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/977/Saint-Gabriel.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/29/9/2018/29-Septembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180929-978@nominis.cef.fr
+DTSTART;VALUE=DATE:20180929
+SUMMARY:Saint Michel - 
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/978/Saint-Michel.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/29/9/2018/29-Septembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180929-979@nominis.cef.fr
+DTSTART;VALUE=DATE:20180929
+SUMMARY:Saint Raphaël - 
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/979/Saint-Rapha%EBl.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/29/9/2018/29-Septembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20180930-1942@nominis.cef.fr
+DTSTART;VALUE=DATE:20180930
+SUMMARY:Saint Jérôme - (+ 420)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1942/Saint-Jerome.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/30/9/2018/30-Septembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181001-1949@nominis.cef.fr
+DTSTART;VALUE=DATE:20181001
+SUMMARY:Sainte Thérèse de l'Enfant-Jésus - (+ 1897)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1949/Sainte-Therese-de-l-Enfant-Jesus.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/1/10/2018/1-Octobre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181002-1950@nominis.cef.fr
+DTSTART;VALUE=DATE:20181002
+SUMMARY:Saints Anges gardiens - 
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1950/Saints-Anges-gardiens.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/2/10/2018/2-Octobre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181003-1957@nominis.cef.fr
+DTSTART;VALUE=DATE:20181003
+SUMMARY:Saint Gérard de Brogne - (+ 959)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1957/Saint-Gerard-de-Brogne.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/3/10/2018/3-Octobre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181004-800@nominis.cef.fr
+DTSTART;VALUE=DATE:20181004
+SUMMARY:Saint François d'Assise - (+ 1226)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/800/Saint-Francois-d-Assise.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/4/10/2018/4-Octobre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181005-9899@nominis.cef.fr
+DTSTART;VALUE=DATE:20181005
+SUMMARY:Sainte Faustine - (+ 1938)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/9899/Sainte-Faustine.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/5/10/2018/5-Octobre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181006-1969@nominis.cef.fr
+DTSTART;VALUE=DATE:20181006
+SUMMARY:Saint Bruno - (+ 1101)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1969/Saint-Bruno.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/6/10/2018/6-Octobre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181006-296@nominis.cef.fr
+DTSTART;VALUE=DATE:20181006
+SUMMARY:Saint Thomas - (1er s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/296/Saint-Thomas.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/6/10/2018/6-Octobre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181007-8446@nominis.cef.fr
+DTSTART;VALUE=DATE:20181007
+SUMMARY:Saint Auguste - (+ 560)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/8446/Saint-Auguste.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/7/10/2018/7-Octobre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181007-1975@nominis.cef.fr
+DTSTART;VALUE=DATE:20181007
+SUMMARY:Notre-Dame du Rosaire - 
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1975/Notre-Dame-du-Rosaire.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/7/10/2018/7-Octobre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181008-1978@nominis.cef.fr
+DTSTART;VALUE=DATE:20181008
+SUMMARY:Sainte Pélagie la Pénitente - (+ v. 302)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1978/Sainte-Pelagie-la-Penitente.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/8/10/2018/8-Octobre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181009-1985@nominis.cef.fr
+DTSTART;VALUE=DATE:20181009
+SUMMARY:Saint Denis de Paris - (3ème s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1985/Saint-Denis-de-Paris.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/9/10/2018/9-Octobre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181010-1991@nominis.cef.fr
+DTSTART;VALUE=DATE:20181010
+SUMMARY:Saint Daniel et ses compagnons - (+ 1227)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1991/Saint-Daniel-et-ses-compagnons.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/10/10/2018/10-Octobre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181011-8540@nominis.cef.fr
+DTSTART;VALUE=DATE:20181011
+SUMMARY:Saint Théophane l'Hymnographe - (9ème s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/8540/Saint-Theophane-l-Hymnographe.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/11/10/2018/11-Octobre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181012-9892@nominis.cef.fr
+DTSTART;VALUE=DATE:20181012
+SUMMARY:Sainte Spérie - (+ 760)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/9892/Sainte-Sperie.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/12/10/2018/12-Octobre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181013-372@nominis.cef.fr
+DTSTART;VALUE=DATE:20181013
+SUMMARY:Saint Edouard le Confesseur - (+ 1066)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/372/Saint-Edouard-le-Confesseur.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/13/10/2018/13-Octobre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181013-2010@nominis.cef.fr
+DTSTART;VALUE=DATE:20181013
+SUMMARY:Saint Géraud d'Aurillac - (+ 909)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/2010/Saint-Geraud-d-Aurillac.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/13/10/2018/13-Octobre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181014-2014@nominis.cef.fr
+DTSTART;VALUE=DATE:20181014
+SUMMARY:Saint Calixte Ier - (+ 222)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/2014/Saint-Calixte-Ier.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/14/10/2018/14-Octobre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181015-2022@nominis.cef.fr
+DTSTART;VALUE=DATE:20181015
+SUMMARY:Sainte Thérèse d'Avila - (+ 1582)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/2022/Sainte-Therese-d-Avila.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/15/10/2018/15-Octobre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181016-2026@nominis.cef.fr
+DTSTART;VALUE=DATE:20181016
+SUMMARY:Sainte Hedwige - (+ 1243)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/2026/Sainte-Hedwige.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/16/10/2018/16-Octobre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181016-2028@nominis.cef.fr
+DTSTART;VALUE=DATE:20181016
+SUMMARY:Sainte Marguerite-Marie Alacoque - (+ 1690)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/2028/Sainte-Marguerite-Marie-Alacoque.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/16/10/2018/16-Octobre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181017-2032@nominis.cef.fr
+DTSTART;VALUE=DATE:20181017
+SUMMARY:Saint Ignace d'Antioche - (+ 115)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/2032/Saint-Ignace-d-Antioche.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/17/10/2018/17-Octobre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181018-2037@nominis.cef.fr
+DTSTART;VALUE=DATE:20181018
+SUMMARY:Saint Luc - (1er s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/2037/Saint-Luc.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/18/10/2018/18-Octobre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181019-8609@nominis.cef.fr
+DTSTART;VALUE=DATE:20181019
+SUMMARY:Saint Isaac Jogues - (+ 1646)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/8609/Saint-Isaac-Jogues.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/19/10/2018/19-Octobre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181019-1937@nominis.cef.fr
+DTSTART;VALUE=DATE:20181019
+SUMMARY:Saint René Goupil - (+ 1642)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1937/Saint-Rene-Goupil.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/19/10/2018/19-Octobre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181020-2044@nominis.cef.fr
+DTSTART;VALUE=DATE:20181020
+SUMMARY:Sainte Adeline - (+ 1125)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/2044/Sainte-Adeline.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/20/10/2018/20-Octobre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181021-2050@nominis.cef.fr
+DTSTART;VALUE=DATE:20181021
+SUMMARY:Sainte Céline - (5ème s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/2050/Sainte-Celine.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/21/10/2018/21-Octobre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181022-2049@nominis.cef.fr
+DTSTART;VALUE=DATE:20181022
+SUMMARY:Saintes Elodie et Nunilon - (+ 851)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/2049/Saintes-Elodie-et-Nunilon.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/22/10/2018/22-Octobre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181022-2061@nominis.cef.fr
+DTSTART;VALUE=DATE:20181022
+SUMMARY:Sainte Salomé la Myrophore - (1er s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/2061/Sainte-Salome-la-Myrophore.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/22/10/2018/22-Octobre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181023-2066@nominis.cef.fr
+DTSTART;VALUE=DATE:20181023
+SUMMARY:Saint Jean de Capistran - (+ 1456)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/2066/Saint-Jean-de-Capistran.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/23/10/2018/23-Octobre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181024-343@nominis.cef.fr
+DTSTART;VALUE=DATE:20181024
+SUMMARY:Saint Florentin - (7ème s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/343/Saint-Florentin.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/24/10/2018/24-Octobre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181025-8706@nominis.cef.fr
+DTSTART;VALUE=DATE:20181025
+SUMMARY:Saint Chély (Hilaire de Mende) - (+ 540)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/8706/Saint-Chely-%28Hilaire-de-Mende%29.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/25/10/2018/25-Octobre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181025-2076@nominis.cef.fr
+DTSTART;VALUE=DATE:20181025
+SUMMARY:Saints Crépin et Crépinien - (+ 285)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/2076/Saints-Crepin-et-Crepinien.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/25/10/2018/25-Octobre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181026-10838@nominis.cef.fr
+DTSTART;VALUE=DATE:20181026
+SUMMARY:Saint Demetrius - (4ème s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/10838/Saint-Demetrius.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/26/10/2018/26-Octobre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181027-2144@nominis.cef.fr
+DTSTART;VALUE=DATE:20181027
+SUMMARY:Bienheureuse Emeline - (12ème s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/2144/Bienheureuse-Emeline.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/27/10/2018/27-Octobre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181028-2092@nominis.cef.fr
+DTSTART;VALUE=DATE:20181028
+SUMMARY:Saint Jude - (1er s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/2092/Saint-Jude.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/28/10/2018/28-Octobre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181028-2094@nominis.cef.fr
+DTSTART;VALUE=DATE:20181028
+SUMMARY:Saint Simon le Cananéen - (1er s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/2094/Saint-Simon-le-Cananeen.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/28/10/2018/28-Octobre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181029-2098@nominis.cef.fr
+DTSTART;VALUE=DATE:20181029
+SUMMARY:Saint Narcisse - (+ 212)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/2098/Saint-Narcisse.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/29/10/2018/29-Octobre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181030-2101@nominis.cef.fr
+DTSTART;VALUE=DATE:20181030
+SUMMARY:Bienheureuse Bienvenue Bojani - (+ 1292)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/2101/Bienheureuse-Bienvenue-Bojani.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/30/10/2018/30-Octobre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181031-2110@nominis.cef.fr
+DTSTART;VALUE=DATE:20181031
+SUMMARY:Saint Quentin - (3ème s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/2110/Saint-Quentin.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/31/10/2018/31-Octobre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181101-169@nominis.cef.fr
+DTSTART;VALUE=DATE:20181101
+SUMMARY:Tous les saints - 
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/169/Tous-les-saints.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/1/11/2018/1-Novembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181102-170@nominis.cef.fr
+DTSTART;VALUE=DATE:20181102
+SUMMARY:Commémoration des défunts - 
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/170/Commemoration-des-defunts.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/2/11/2018/2-Novembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181103-6@nominis.cef.fr
+DTSTART;VALUE=DATE:20181103
+SUMMARY:Saint Hubert - (+ 727)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/6/Saint-Hubert.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/3/11/2018/3-Novembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181103-42@nominis.cef.fr
+DTSTART;VALUE=DATE:20181103
+SUMMARY:Saint Martin de Porres - (+ 1639)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/42/Saint-Martin-de-Porres.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/3/11/2018/3-Novembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181104-7@nominis.cef.fr
+DTSTART;VALUE=DATE:20181104
+SUMMARY:Saint Charles Borromée - (+ 1584)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/7/Saint-Charles-Borromee.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/4/11/2018/4-Novembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181105-9@nominis.cef.fr
+DTSTART;VALUE=DATE:20181105
+SUMMARY:Sainte Bertille - (+ v. 705)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/9/Sainte-Bertille.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/5/11/2018/5-Novembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181106-53@nominis.cef.fr
+DTSTART;VALUE=DATE:20181106
+SUMMARY:Saint Léonard de Noblat - (6ème s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/53/Saint-Leonard-de-Noblat.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/6/11/2018/6-Novembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181107-2162@nominis.cef.fr
+DTSTART;VALUE=DATE:20181107
+SUMMARY:Saints Karine, Mélassippe et Antoine - (4ème s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/2162/Saints-Karine--Melassippe-et-Antoine.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/7/11/2018/7-Novembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181107-63@nominis.cef.fr
+DTSTART;VALUE=DATE:20181107
+SUMMARY:Saint Willibrord - (+ 739)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/63/Saint-Willibrord.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/7/11/2018/7-Novembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181108-10@nominis.cef.fr
+DTSTART;VALUE=DATE:20181108
+SUMMARY:Saint Geoffroy d'Amiens - (+ 1115)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/10/Saint-Geoffroy-d-Amiens.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/8/11/2018/8-Novembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181109-174@nominis.cef.fr
+DTSTART;VALUE=DATE:20181109
+SUMMARY:Dédicace de la Basilique du Latran - 
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/174/Dedicace-de-la-Basilique-du-Latran.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/9/11/2018/9-Novembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181109-11@nominis.cef.fr
+DTSTART;VALUE=DATE:20181109
+SUMMARY:Saint Théodore - (+ v. 304)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/11/Saint-Theodore.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/9/11/2018/9-Novembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181110-12@nominis.cef.fr
+DTSTART;VALUE=DATE:20181110
+SUMMARY:Saint Léon le Grand - (+ 461)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/12/Saint-Leon-le-Grand.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/10/11/2018/10-Novembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181111-13@nominis.cef.fr
+DTSTART;VALUE=DATE:20181111
+SUMMARY:Saint Martin de Tours - (+ 397)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/13/Saint-Martin-de-Tours.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/11/11/2018/11-Novembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181112-14@nominis.cef.fr
+DTSTART;VALUE=DATE:20181112
+SUMMARY:Saint Josaphat Kuntsevych - (+ 1623)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/14/Saint-Josaphat-Kuntsevych.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/12/11/2018/12-Novembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181113-1@nominis.cef.fr
+DTSTART;VALUE=DATE:20181113
+SUMMARY:Saint Brice - (+ v. 444)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1/Saint-Brice.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/13/11/2018/13-Novembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181114-96@nominis.cef.fr
+DTSTART;VALUE=DATE:20181114
+SUMMARY:Saint Laurent de Dublin - (+ 1180)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/96/Saint-Laurent-de-Dublin.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/14/11/2018/14-Novembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181115-3@nominis.cef.fr
+DTSTART;VALUE=DATE:20181115
+SUMMARY:Saint Albert le Grand - (+ 1280)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/3/Saint-Albert-le-Grand.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/15/11/2018/15-Novembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181115-9877@nominis.cef.fr
+DTSTART;VALUE=DATE:20181115
+SUMMARY:Sainte Victoire - 
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/9877/Sainte-Victoire.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/15/11/2018/15-Novembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181116-9878@nominis.cef.fr
+DTSTART;VALUE=DATE:20181116
+SUMMARY:Sainte Marguerite d'Ecosse - (+ 1093)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/9878/Sainte-Marguerite-d-Ecosse.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/16/11/2018/16-Novembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181116-1066@nominis.cef.fr
+DTSTART;VALUE=DATE:20181116
+SUMMARY:Saint Matthieu - (1er s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1066/Saint-Matthieu.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/16/11/2018/16-Novembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181117-5@nominis.cef.fr
+DTSTART;VALUE=DATE:20181117
+SUMMARY:Sainte Elisabeth de Thuringe - (+ 1231)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/5/Sainte-Elisabeth-de-Thuringe.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/17/11/2018/17-Novembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181118-15@nominis.cef.fr
+DTSTART;VALUE=DATE:20181118
+SUMMARY:Sainte Aude - (5ème s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/15/Sainte-Aude.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/18/11/2018/18-Novembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181118-9221@nominis.cef.fr
+DTSTART;VALUE=DATE:20181118
+SUMMARY:Sainte Rose-Philippine Duchesne - (+ 1852)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/9221/Sainte-Rose-Philippine-Duchesne.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/18/11/2018/18-Novembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181119-16@nominis.cef.fr
+DTSTART;VALUE=DATE:20181119
+SUMMARY:Saint Tanguy - (date ?)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/16/Saint-Tanguy.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/19/11/2018/19-Novembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181120-17@nominis.cef.fr
+DTSTART;VALUE=DATE:20181120
+SUMMARY:Saint Edmond le Martyr - (+ 870)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/17/Saint-Edmond-le-Martyr.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/20/11/2018/20-Novembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181121-116@nominis.cef.fr
+DTSTART;VALUE=DATE:20181121
+SUMMARY:Présentation de la Vierge Marie - 
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/116/Presentation-de-la-Vierge-Marie.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/21/11/2018/21-Novembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181122-18@nominis.cef.fr
+DTSTART;VALUE=DATE:20181122
+SUMMARY:Sainte Cécile de Rome - (+ 230)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/18/Sainte-Cecile-de-Rome.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/22/11/2018/22-Novembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181123-19@nominis.cef.fr
+DTSTART;VALUE=DATE:20181123
+SUMMARY:Saint Clément Ier - (+ 97)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/19/Saint-Clement-Ier.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/23/11/2018/23-Novembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181123-23@nominis.cef.fr
+DTSTART;VALUE=DATE:20181123
+SUMMARY:Saint Séverin de Paris - (+ v. 540)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/23/Saint-Severin-de-Paris.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/23/11/2018/23-Novembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181124-176@nominis.cef.fr
+DTSTART;VALUE=DATE:20181124
+SUMMARY:Saintes Flora et Marie - (+ 854)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/176/Saintes-Flora-et-Marie.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/24/11/2018/24-Novembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181124-9338@nominis.cef.fr
+DTSTART;VALUE=DATE:20181124
+SUMMARY:Saints Martyrs du Vietnam - 
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/9338/Saints-Martyrs-du-Vietnam.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/24/11/2018/24-Novembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181125-21@nominis.cef.fr
+DTSTART;VALUE=DATE:20181125
+SUMMARY:Sainte Catherine d'Alexandrie - (4ème s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/21/Sainte-Catherine-d-Alexandrie.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/25/11/2018/25-Novembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181126-129@nominis.cef.fr
+DTSTART;VALUE=DATE:20181126
+SUMMARY:Saint Innocent d'Irkoutsk - (+ 1731)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/129/Saint-Innocent-d-Irkoutsk.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/26/11/2018/26-Novembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181127-9970@nominis.cef.fr
+DTSTART;VALUE=DATE:20181127
+SUMMARY:Fête de la Vierge Marie en son icône du signe - 
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/9970/Fete-de-la-Vierge-Marie-en-son-icone-du-signe.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/27/11/2018/27-Novembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181128-9305@nominis.cef.fr
+DTSTART;VALUE=DATE:20181128
+SUMMARY:Sainte Catherine Labouré - (+ 1876)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/9305/Sainte-Catherine-Laboure.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/28/11/2018/28-Novembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181128-141@nominis.cef.fr
+DTSTART;VALUE=DATE:20181128
+SUMMARY:Saint Jacques de la Marche - (+ 1476)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/141/Saint-Jacques-de-la-Marche.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/28/11/2018/28-Novembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181129-9431@nominis.cef.fr
+DTSTART;VALUE=DATE:20181129
+SUMMARY:Saint Sernin - (3ème s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/9431/Saint-Sernin.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/29/11/2018/29-Novembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181130-25@nominis.cef.fr
+DTSTART;VALUE=DATE:20181130
+SUMMARY:Saint André - (+ 62)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/25/Saint-Andre.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/30/11/2018/30-Novembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181201-205@nominis.cef.fr
+DTSTART;VALUE=DATE:20181201
+SUMMARY:Saint Eloi - (+ 660)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/205/Saint-Eloi.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/1/12/2018/1-Decembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181201-340@nominis.cef.fr
+DTSTART;VALUE=DATE:20181201
+SUMMARY:Sainte Florence - (+ 367)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/340/Sainte-Florence.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/1/12/2018/1-Decembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181202-208@nominis.cef.fr
+DTSTART;VALUE=DATE:20181202
+SUMMARY:Sainte Bibiane - (+ 363)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/208/Sainte-Bibiane.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/2/12/2018/2-Decembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181202-1357@nominis.cef.fr
+DTSTART;VALUE=DATE:20181202
+SUMMARY:Saint Silvère - (+ 537)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1357/Saint-Silvere.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/2/12/2018/2-Decembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181203-214@nominis.cef.fr
+DTSTART;VALUE=DATE:20181203
+SUMMARY:Saint François-Xavier - (+ 1552)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/214/Saint-Francois-Xavier.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/3/12/2018/3-Decembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181204-213@nominis.cef.fr
+DTSTART;VALUE=DATE:20181204
+SUMMARY:Sainte Barbe - (+ 235)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/213/Sainte-Barbe.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/4/12/2018/4-Decembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181204-215@nominis.cef.fr
+DTSTART;VALUE=DATE:20181204
+SUMMARY:Saint Jean Damascène - (+ 749)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/215/Saint-Jean-Damascene.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/4/12/2018/4-Decembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181205-224@nominis.cef.fr
+DTSTART;VALUE=DATE:20181205
+SUMMARY:Saint Gérald - (+ 1109)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/224/Saint-Gerald.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/5/12/2018/5-Decembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181206-227@nominis.cef.fr
+DTSTART;VALUE=DATE:20181206
+SUMMARY:Saint Nicolas de Myre - (+ v. 350)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/227/Saint-Nicolas-de-Myre.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/6/12/2018/6-Decembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181207-230@nominis.cef.fr
+DTSTART;VALUE=DATE:20181207
+SUMMARY:Saint Ambroise de Milan - (+ 397)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/230/Saint-Ambroise-de-Milan.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/7/12/2018/7-Decembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181208-235@nominis.cef.fr
+DTSTART;VALUE=DATE:20181208
+SUMMARY:Immaculée Conception - 
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/235/Immaculee-Conception.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/8/12/2018/8-Decembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181209-239@nominis.cef.fr
+DTSTART;VALUE=DATE:20181209
+SUMMARY:Sainte Léocadie - (+ v. 303)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/239/Sainte-Leocadie.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/9/12/2018/9-Decembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181209-240@nominis.cef.fr
+DTSTART;VALUE=DATE:20181209
+SUMMARY:Saint Pierre Fourier - (+ 1640)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/240/Saint-Pierre-Fourier.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/9/12/2018/9-Decembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181210-242@nominis.cef.fr
+DTSTART;VALUE=DATE:20181210
+SUMMARY:Sainte Eulalie - (+ 304)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/242/Sainte-Eulalie.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/10/12/2018/10-Decembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181211-246@nominis.cef.fr
+DTSTART;VALUE=DATE:20181211
+SUMMARY:Saint Damase Ier - (+ 384)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/246/Saint-Damase-Ier.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/11/12/2018/11-Decembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181211-247@nominis.cef.fr
+DTSTART;VALUE=DATE:20181211
+SUMMARY:Saint Daniel le Stylite - (+ 489)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/247/Saint-Daniel-le-Stylite.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/11/12/2018/11-Decembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181212-248@nominis.cef.fr
+DTSTART;VALUE=DATE:20181212
+SUMMARY:Saint Corentin - (5ème s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/248/Saint-Corentin.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/12/12/2018/12-Decembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181212-10072@nominis.cef.fr
+DTSTART;VALUE=DATE:20181212
+SUMMARY:Notre Dame de Guadalupe - 
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/10072/Notre-Dame-de-Guadalupe.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/12/12/2018/12-Decembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181213-253@nominis.cef.fr
+DTSTART;VALUE=DATE:20181213
+SUMMARY:Sainte Lucie de Syracuse - (+ v. 305)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/253/Sainte-Lucie-de-Syracuse.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/13/12/2018/13-Decembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181214-20@nominis.cef.fr
+DTSTART;VALUE=DATE:20181214
+SUMMARY:Saint Jean de la Croix - (+ 1591)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/20/Saint-Jean-de-la-Croix.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/14/12/2018/14-Decembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181214-257@nominis.cef.fr
+DTSTART;VALUE=DATE:20181214
+SUMMARY:Sainte Odile - (+ 720)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/257/Sainte-Odile.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/14/12/2018/14-Decembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181215-260@nominis.cef.fr
+DTSTART;VALUE=DATE:20181215
+SUMMARY:Sainte Nino - (4ème s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/260/Sainte-Nino.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/15/12/2018/15-Decembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181216-264@nominis.cef.fr
+DTSTART;VALUE=DATE:20181216
+SUMMARY:Sainte Adélaïde - (+ 999)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/264/Sainte-Adelaide.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/16/12/2018/16-Decembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181217-272@nominis.cef.fr
+DTSTART;VALUE=DATE:20181217
+SUMMARY:Saint Judicaël - (+ 658)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/272/Saint-Judica%EBl.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/17/12/2018/17-Decembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181218-278@nominis.cef.fr
+DTSTART;VALUE=DATE:20181218
+SUMMARY:Saint Gatien de Tours - (4ème s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/278/Saint-Gatien-de-Tours.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/18/12/2018/18-Decembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181219-284@nominis.cef.fr
+DTSTART;VALUE=DATE:20181219
+SUMMARY:Bienheureux Urbain V - (+ 1370)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/284/Bienheureux-Urbain-V.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/19/12/2018/19-Decembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181220-1745@nominis.cef.fr
+DTSTART;VALUE=DATE:20181220
+SUMMARY:Saint Zéphyrin - (+ 217)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1745/Saint-Zephyrin.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/20/12/2018/20-Decembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181221-294@nominis.cef.fr
+DTSTART;VALUE=DATE:20181221
+SUMMARY:Saint Pierre Canisius - (+ 1597)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/294/Saint-Pierre-Canisius.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/21/12/2018/21-Decembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181222-297@nominis.cef.fr
+DTSTART;VALUE=DATE:20181222
+SUMMARY:Sainte Françoise-Xavière Cabrini - (+ 1917)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/297/Sainte-Francoise-Xaviere-Cabrini.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/22/12/2018/22-Decembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181223-627@nominis.cef.fr
+DTSTART;VALUE=DATE:20181223
+SUMMARY:Bienheureux Armand - (+ 1164)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/627/Bienheureux-Armand.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/23/12/2018/23-Decembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181224-304@nominis.cef.fr
+DTSTART;VALUE=DATE:20181224
+SUMMARY:Sainte Adèle - (+ 735)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/304/Sainte-Adele.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/24/12/2018/24-Decembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181225-312@nominis.cef.fr
+DTSTART;VALUE=DATE:20181225
+SUMMARY:Nativité du Christ - (1er s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/312/Nativite-du-Christ.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/25/12/2018/25-Decembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181226-315@nominis.cef.fr
+DTSTART;VALUE=DATE:20181226
+SUMMARY:Saint Étienne - (+ 35)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/315/Saint-%C9tienne.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/26/12/2018/26-Decembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181227-321@nominis.cef.fr
+DTSTART;VALUE=DATE:20181227
+SUMMARY:Saint Jean l'Evangéliste - (+ 101)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/321/Saint-Jean-l-Evangeliste.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/27/12/2018/27-Decembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181228-325@nominis.cef.fr
+DTSTART;VALUE=DATE:20181228
+SUMMARY:Saints Innocents - (1er s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/325/Saints-Innocents.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/28/12/2018/28-Decembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181229-326@nominis.cef.fr
+DTSTART;VALUE=DATE:20181229
+SUMMARY:Saint David - (10ème s. av. J.C.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/326/Saint-David.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/29/12/2018/29-Decembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181230-1113@nominis.cef.fr
+DTSTART;VALUE=DATE:20181230
+SUMMARY:Saint Roger - (+ v. 1129)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/1113/Saint-Roger.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/30/12/2018/30-Decembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181231-9847@nominis.cef.fr
+DTSTART;VALUE=DATE:20181231
+SUMMARY:Saint Jean François Régis - (+ 1640)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/9847/Saint-Jean-Francois-Regis.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/31/12/2018/31-Decembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181231-333@nominis.cef.fr
+DTSTART;VALUE=DATE:20181231
+SUMMARY:Sainte Famille - (1er s.)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/333/Sainte-Famille.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/31/12/2018/31-Decembre-2018.html
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+UID:20181231-339@nominis.cef.fr
+DTSTART;VALUE=DATE:20181231
+SUMMARY:Saint Sylvestre Ier - (+ 335)
+DESCRIPTION:Saint du jour\nhttps://nominis.cef.fr/contenus/saint/339/Saint-Sylvestre-Ier.html\nPage du jour\nhttps://nominis.cef.fr/contenus/fetes/31/12/2018/31-Decembre-2018.html
+END:VEVENT
+END:VCALENDAR
