@@ -2,6 +2,8 @@ var fs = require('fs');
 var request = require('request');
 var cheerio = require('cheerio');
 var iconv = require('iconv-lite');
+var removeAccents = require('remove-accents');
+var sleep = require('system-sleep');
 
 var data = {date: {}, names:{}};
 var dataNames = [];
@@ -13,21 +15,23 @@ function convert(name) {
 }
 
 function toId(name) {
-  return cleanName(name.toLowerCase());
+  return cleanName(removeAccents(name).toLowerCase());
 }
 
 function cleanName(name) {
-  return name.replace(/\(.*\)/g,'');
+  return name.replace(/\(.*\)/g,'').replace(/\s/g, '-');
 }
 
 function getSynonyms(name) {
   var names = [];
   var nameCleaned = cleanName(name);
   names.push(nameCleaned);
+  names.push(removeAccents(nameCleaned));
   names.push(toId(nameCleaned));
   var alternate = name.replace(/[\(\)]/g, '');
   if (alternate !== nameCleaned) {
     names.push(alternate);
+    names.push(removeAccents(alternate));
     names.push(toId(alternate));
   }
   return names;
@@ -107,7 +111,7 @@ function grabDataFromAEvent(elem, index, array) {
     var saint = summary.substring(0, summary.lastIndexOf("-")-1);
     var description = elem['DESCRIPTION'];
     var url = description.substring(description.lastIndexOf("\\n")+2);
-
+    sleep(100);
     return load(url).then(names => {
       console.log(`Load ${date} with ${names.length} names`);
       var dateObj = {date, saint, url, names : []}
@@ -118,7 +122,7 @@ function grabDataFromAEvent(elem, index, array) {
             dateObj.image = name.image;
           }
           dataNames.push({
-              "value": cleanName(name.name),
+              "value": toId(name.name),
               "synonyms": name.synonyms
           });
       });
