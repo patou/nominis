@@ -22,19 +22,35 @@ function cleanName(name) {
   return name.replace(/\(.*\)/g,'').replace(/\s/g, '-');
 }
 
+function tabPush(table, value) {
+  if (!table.includes(value))
+    table.push(value);
+}
+
 function getSynonyms(name) {
   var names = [];
   var nameCleaned = cleanName(name);
-  names.push(nameCleaned);
-  names.push(removeAccents(nameCleaned));
-  names.push(toId(nameCleaned));
+  tabPush(names, nameCleaned);
+  tabPush(names, removeAccents(nameCleaned));
+  tabPush(names, toId(nameCleaned));
   var alternate = name.replace(/[\(\)]/g, '');
   if (alternate !== nameCleaned) {
-    names.push(alternate);
-    names.push(removeAccents(alternate));
-    names.push(toId(alternate));
+    tabPush(names, alternate);
+    tabPush(names, removeAccents(alternate));
+    tabPush(names, toId(alternate));
   }
   return names;
+}
+
+function cleanUrl(link) {
+  return link ? link.replace("https://nominis.cef.fr/", "/") : link;
+}
+
+function toTab(current, newValue) {
+  var tab = Array.isArray(current) ? current : [current];
+  if (!tab.includes(newValue))
+    tab.push(newValue);
+  return tab;
 }
 
 function getName(link, major) {
@@ -44,7 +60,7 @@ function getName(link, major) {
   var kind = gender[link.attr('class')];
   //console.log(kind);
   var linkHref = link.attr('href');
-  var obj = {id : toId(name), name, kind, link: linkHref, synonyms:getSynonyms(name)};
+  var obj = {id : toId(name), name, kind, link: cleanUrl(linkHref), synonyms:getSynonyms(name)};
   if (major) {
     obj.major = major;
   }
@@ -76,23 +92,13 @@ function findNames(html) {
       }
     });
   }
-  /*$(".sexe1").each(function(i, element){
-    var name = $(this).text().toLowerCase();
-    data.name[name] = date;
-    names.push(name);
-  });
-  $(".sexe0").each(function(i, element){
-    var name = $(this).text().toLowerCase();
-    data.name[name] = date;
-    names.push(name);
-  });*/
   return names;
 }
 
 function load(url) {
   return  new Promise(function(resolve, reject) {
       request({url, encoding: 'latin1'}, function (error, response, html) {
-      if (!error && response.statusCode == 200) {
+      if (!error && response.statusCode  == 200) {
         resolve(findNames(html));
       }
       else {
@@ -114,9 +120,14 @@ function grabDataFromAEvent(elem, index, array) {
     sleep(50);
     return load(url).then(names => {
       console.log(`Load ${date} with ${names.length} names`);
-      var dateObj = {date, saint, url, names : []}
+      var dateObj = {date, saint, url : cleanUrl(url), names : []}
       names.forEach(name => {
-          data.names[name.id] = {...name, date};
+          if (data.names[name.id]) {
+            data.names[name.id].date = toTab(data.names[name.id].date, date);
+          }
+          else {
+            data.names[name.id] = {...name, date};
+          }
           if (!name.major) {
             dateObj.names.push(name.name);
             dateObj.image = name.image;
@@ -151,4 +162,4 @@ function main() {
 }
 
 
-module.exports = {findNames, toId, getSynonyms, grabDataFromAEvent, load, convert, main};
+module.exports = {findNames, toId, getSynonyms, grabDataFromAEvent, load, convert, toTab, main};

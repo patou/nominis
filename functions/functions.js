@@ -3,7 +3,8 @@ moment.locale("fr");
 const data = require('./data.json');
 
 function formatDate(date) {
-  switch (date.diff(moment().startOf('day'), 'day')) {
+  var momentDate = typeof(date) === "string" && date.length == 4 ? moment(date, "MMDD") : moment(date);
+  switch (momentDate.startOf("day").diff(moment().startOf('day'), 'day')) {
     case 0:
       return "aujourd'hui"
     case 1:
@@ -11,8 +12,24 @@ function formatDate(date) {
     case -1:
       return "hier"
     default:
-      return date.format('[le] D MMMM')
+      return momentDate.format('[le] D MMMM')
   }
+}
+
+function joinList(list = []) {
+  var ret;
+  switch (list.length) {
+    case 0:
+      ret = '';
+      break;
+    case 1:
+      ret = list[0];
+      break;
+    default:
+      var last = list.pop();
+      ret = list.join(", ") + " et " + last;
+  }
+  return ret;
 }
 
 function startBy(str) {
@@ -43,4 +60,4 @@ function dateExist(date) {
   return !!data.date[date];
 }
 
-module.exports = {formatDate, startBy, fete, getName, getDate, nameExist, dateExist}
+module.exports = {formatDate, startBy, fete, getName, getDate, nameExist, dateExist, joinList}

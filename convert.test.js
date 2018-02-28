@@ -1,4 +1,4 @@
- const { findNames, toId, getSynonyms } = require('./convert.js');
+ const { findNames, toId, getSynonyms, toTab } = require('./convert.js');
 
 test('toId must be lowercase and without parenthesis', () => {
   expect(toId("Megan(e)")).toBe("megan");
@@ -10,6 +10,12 @@ test('getSynonyms must return all synonyms of a name', () => {
 
 test('findNames with empty string return empty array', () => {
   expect(findNames("")).toHaveLength(0);
+});
+
+test('toTab', () => {
+  expect(toTab("0101", "0102")).toContain("0101", "0102");
+  expect(toTab(["0101", "0102"], "0103")).toContain("0101", "0102", "0103");
+  expect(toTab(["0101", "0102"], "0102")).toContain("0101", "0102");
 });
 
 test('findNames with sexe1 classes', () => {

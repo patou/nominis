@@ -5,7 +5,7 @@ const DialogflowApp = require('actions-on-google').DialogflowApp; // Google Assi
 const moment = require('moment');
 moment.locale("fr");
 
-const {formatDate, startBy, fete, getName, getDate, nameExist, dateExist} = require('./functions');
+const {formatDate, startBy, fete, getName, getDate, nameExist, dateExist, joinList} = require('./functions');
 
 exports.dialogflowFirebaseFulfillment = functions.https.onRequest((request, response) => {
   console.log('Dialogflow Request headers: ' + JSON.stringify(request.headers));
@@ -75,7 +75,7 @@ function processV2Request (request, response) {
     var md = momentDate.format('MMDD');
     if (dateExist(md)) {
       var data = getDate(md);
-      sendResponse(`${formatDate(momentDate)} nous fêtons ${startBy(data.saint)}`);
+      sendResponse(`Nous fêtons ${startBy(data.saint)} ${formatDate(momentDate)}`);
     }
     else {
       sendResponse("Pas de saint à fêter pour le " + momentDate.format('D MMMM'));
@@ -85,12 +85,17 @@ function processV2Request (request, response) {
   //Cherche le nom et indique le jour de la fête.
   function actionName(name) {
     if (!name) {
-      sendResponse("Dites moi pour quel prénom vous voulez la fêtes.");
+      sendResponse("Dites moi pour quel prénom vous voulez la fête.");
     }
     if (nameExist(name)) {
       var data = getName(name);
-      var momentDate = moment(getDate(data.date), "MMDD");
-      sendResponse(`Les ${data.name} sont fêtés ${formatDate(momentDate)} ${fete(data.date, name.id)}`);
+      if (Array.isArray(data.date)) {
+        var dates = joinList(data.date.map(formatDate))
+        sendResponse(`Les ${data.name} sont fêtés ${dates}`);
+      }
+      else {
+        sendResponse(`Les ${data.name} sont fêtés ${formatDate(data.date)} ${fete(data.date, data.id)}`);
+      }
     }
     else {
       sendResponse(`Le prénom ${name} n'a pas de fête associée.`);
