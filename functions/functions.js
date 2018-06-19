@@ -60,4 +60,124 @@ function dateExist(date) {
   return !!data.date[date];
 }
 
-module.exports = {formatDate, startBy, fete, getName, getDate, nameExist, dateExist, joinList}
+function toUrl(uri) {
+  return "https://nominis.cef.fr" + uri;
+}
+
+function capitalizeFirstLetter(string) {
+    return string.charAt(0).toUpperCase() + string.slice(1);
+}
+
+function buildMessageDate(msg, data) {
+  msg = capitalizeFirstLetter(msg);
+  return {
+    fulfillmentText: msg,
+    fulfillmentMessages: [
+      {
+        "platform": "ACTIONS_ON_GOOGLE",
+        "simple_responses" : {
+          "simple_responses": [{
+              "textToSpeech" : msg
+          }]
+        }
+      },
+      {
+        "platform": "ACTIONS_ON_GOOGLE",
+        "basic_card": {
+          "title": capitalizeFirstLetter(formatDate(data.date)),
+          "subtitle": capitalizeFirstLetter(startBy(data.saint)),
+          "formattedText": msg,
+          "image": {
+            "imageUri": toUrl(data.image),
+            "accessibility_text": capitalizeFirstLetter(startBy(data.saint))
+          },
+          "buttons": [
+            {
+              "title": "Plus d'informations",
+              "openUriAction": {
+                 "uri": toUrl(data.url),
+              },
+            }
+          ],
+        }
+      },
+      {
+        "platform": "FACEBOOK",
+        "card": {
+          "title": capitalizeFirstLetter(formatDate(data.date)),
+          "subtitle": capitalizeFirstLetter(startBy(data.saint)),
+          "imageUri": toUrl(data.image),
+          "buttons": [
+            {
+              "text": "Plus d'informations",
+              "postback": toUrl(data.url),
+            }
+          ],
+        }
+      }
+    ]
+  };
+}
+
+function buildMessageName(msg, data) {
+  msg = capitalizeFirstLetter(msg);
+  var messages = [
+    {
+      "platform": "ACTIONS_ON_GOOGLE",
+      "simple_responses" : {
+        "simple_responses": [{
+            "textToSpeech" : msg
+        }]
+      }
+    }
+  ];
+  var dates = Array.isArray(data.date) ? data.date : [data.date];
+  var basicCard;
+  dates.forEach(date => {
+    var dataDate = getDate(date);
+    if (!basicCard) {
+      basicCard = {
+        "platform": "ACTIONS_ON_GOOGLE",
+        "basic_card": {
+          "title": capitalizeFirstLetter(formatDate(date)),
+          "subtitle": capitalizeFirstLetter(startBy(dataDate.saint)),
+          "formattedText": msg,
+          "image": {
+            "imageUri": toUrl(dataDate.image),
+            "accessibility_text": capitalizeFirstLetter(startBy(dataDate.saint))
+          },
+          "buttons": [
+          ],
+        }
+      };
+    }
+    basicCard["basic_card"].buttons.push({
+      "title": capitalizeFirstLetter(formatDate(date)),
+      "openUriAction": {
+         "uri": toUrl(dataDate.url),
+      },
+    }
+    );
+    messages.push({
+      "platform": "FACEBOOK",
+      "card": {
+        "title": capitalizeFirstLetter(formatDate(date)),
+        "subtitle": capitalizeFirstLetter(startBy(dataDate.saint)),
+        "imageUri": toUrl(dataDate.image),
+        "buttons": [
+          {
+            "text": "Plus d'informations",
+            "postback": toUrl(dataDate.url),
+          }
+        ],
+      }
+    });
+  });
+  messages.push(basicCard);
+  return {
+    fulfillmentText: msg,
+    fulfillmentMessages: messages
+  };
+}
+
+module.exports = {formatDate, startBy, fete, getName, getDate, nameExist, dateExist, joinList, buildMessageDate, buildMessageName, capitalizeFirstLetter}

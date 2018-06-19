@@ -5,7 +5,7 @@ const DialogflowApp = require('actions-on-google').DialogflowApp; // Google Assi
 const moment = require('moment');
 moment.locale("fr");
 
-const {formatDate, startBy, fete, getName, getDate, nameExist, dateExist, joinList} = require('./functions');
+const {formatDate, startBy, fete, getName, getDate, nameExist, dateExist, joinList, buildMessageDate, buildMessageName, capitalizeFirstLetter} = require('./functions');
 
 exports.dialogflowFirebaseFulfillment = functions.https.onRequest((request, response) => {
   console.log('Dialogflow Request headers: ' + JSON.stringify(request.headers));
@@ -75,7 +75,7 @@ function processV2Request (request, response) {
     var md = momentDate.format('MMDD');
     if (dateExist(md)) {
       var data = getDate(md);
-      sendResponse(`Nous fêtons ${startBy(data.saint)} ${formatDate(momentDate)}`);
+      sendResponse(buildMessageDate(`${formatDate(momentDate)}, nous fêtons ${startBy(data.saint)}`, data));
     }
     else {
       sendResponse("Pas de saint à fêter pour le " + momentDate.format('D MMMM'));
@@ -91,14 +91,14 @@ function processV2Request (request, response) {
       var data = getName(name);
       if (Array.isArray(data.date)) {
         var dates = joinList(data.date.map(formatDate))
-        sendResponse(`Les ${data.name} sont fêtés ${dates}`);
+        sendResponse(buildMessageName(`Les ${data.name} sont fêtés ${dates}`, data));
       }
       else {
-        sendResponse(`Les ${data.name} sont fêtés ${formatDate(data.date)} ${fete(data.date, data.id)}`);
+        sendResponse(buildMessageName(`Les ${data.name} sont fêtés ${formatDate(data.date)} ${fete(data.date, data.id)}`, data));
       }
     }
     else {
-      sendResponse(`Le prénom ${name} n'a pas de fête associée.`);
+      sendResponse(`Le prénom ${capitalizeFirstLetter(name)} n'a pas de fête associée.`);
     }
   }
 
